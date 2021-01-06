@@ -1,4 +1,3 @@
-# Hello World 2020/08/08
+# Hello World 2021/01/06
 
-Q: Whatever happened to the cow that was lifted into the air by the tornado?
-A: Udder disaster!
+You will never win if you never begin.
