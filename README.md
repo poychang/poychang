@@ -1,3 +1,3 @@
-# Hello World 2021/01/06
+# Hello World 2021/01/07
 
-You will never win if you never begin.
+I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'
