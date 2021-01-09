@@ -1,3 +1,3 @@
-# Hello World 2021/01/08
+# Hello World 2021/01/09
 
-Win any way as long as you can get away with it. Nice guys finish last.
+Where there is ruin, there is hope for a treasure.
