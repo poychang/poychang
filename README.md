@@ -1,3 +1,3 @@
-# Hello World 2021/01/09
+# Hello World 2021/01/10
 
-Where there is ruin, there is hope for a treasure.
+People rise to the occasion without hesitation when they feel inspired and challenged.
