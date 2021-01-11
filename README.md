@@ -1,3 +1,3 @@
-# Hello World 2021/01/10
+# Hello World 2021/01/11
 
-People rise to the occasion without hesitation when they feel inspired and challenged.
+Every day you have a choice to be honest or deceptive. If you commit to telling the truth, you will win. You'll win more trust, you'll win more business, and you'll win more peace of mind. You'll break the system and be even more successful.
