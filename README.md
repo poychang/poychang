@@ -1,3 +1,3 @@
-# Hello World 2021/01/13
+# Hello World 2021/01/14
 
-Those who know how to win are much more numerous than those who know how to make proper use of their victories
+It wasn't raining when Noah built the ark..
