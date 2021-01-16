@@ -1,3 +1,3 @@
-# Hello World 2021/01/15
+# Hello World 2021/01/16
 
-If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.
+Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
