@@ -1,3 +1,3 @@
-# Hello World 2021/01/18
+# Hello World 2021/01/19
 
-Winning is nice if you don't lose your integrity in the process.
+Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
