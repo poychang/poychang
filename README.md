@@ -1,3 +1,3 @@
-# Hello World 2021/01/21
+# Hello World 2021/01/22
 
-There's such a thin line between winning and losing.
+Think ahead. Don't let day-to-day operations drive out planning.
