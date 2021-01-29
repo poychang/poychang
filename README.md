@@ -1,3 +1,3 @@
-# Hello World 2021/01/28
+# Hello World 2021/01/29
 
-Vision without action is daydream. Action without vision is nightmare..
+Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
