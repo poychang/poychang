@@ -1,3 +1,3 @@
-# Hello World 2021/01/30
+# Hello World 2021/01/31
 
-You must have a positive self perception in order to transcend anything.
+The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
