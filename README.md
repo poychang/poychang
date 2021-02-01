@@ -1,3 +1,3 @@
-# Hello World 2021/01/31
+# Hello World 2021/02/01
 
-The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
+The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
