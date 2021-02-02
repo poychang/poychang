@@ -1,3 +1,3 @@
-# Hello World 2021/02/01
+# Hello World 2021/02/02
 
-The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
+Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
