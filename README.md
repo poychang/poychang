@@ -1,3 +1,3 @@
-# Hello World 2021/02/03
+# Hello World 2021/02/04
 
-We don't have to do all of it alone. We were never meant to.
+Failure is the condiment that gives success its flavor.
