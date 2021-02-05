@@ -1,3 +1,3 @@
-# Hello World 2021/02/04
+# Hello World 2021/02/05
 
-Failure is the condiment that gives success its flavor.
+When you win, say nothing. When you lose, say less.
