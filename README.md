@@ -1,3 +1,3 @@
-# Hello World 2021/02/05
+# Hello World 2021/02/06
 
-When you win, say nothing. When you lose, say less.
+People rise to the occasion without hesitation when they feel inspired and challenged.
