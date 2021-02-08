@@ -1,3 +1,3 @@
-# Hello World 2021/02/07
+# Hello World 2021/02/08
 
-It wasn't raining when Noah built the ark..
+Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
