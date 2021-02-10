@@ -1,3 +1,3 @@
-# Hello World 2021/02/09
+# Hello World 2021/02/10
 
-Named must your fear be before banish it you can.
+Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
