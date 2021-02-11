@@ -1,3 +1,3 @@
-# Hello World 2021/02/10
+# Hello World 2021/02/11
 
-Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
+Logic will get you from A to B. Imagination will take you everywhere.
