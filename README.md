@@ -1,3 +1,3 @@
-# Hello World 2021/02/12
+# Hello World 2021/02/13
 
-You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.
+Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.
