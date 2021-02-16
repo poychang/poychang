@@ -1,3 +1,3 @@
-# Hello World 2021/02/15
+# Hello World 2021/02/16
 
-If you don't have confidence, you'll always find a way not to win
+Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.
