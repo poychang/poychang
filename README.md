@@ -1,3 +1,3 @@
-# Hello World 2021/02/17
+# Hello World 2021/02/18
 
-If you're changing the world, you're working on important things. You're excited to get up in the morning.
+If you want to make your dreams come true, the first thing you have to do is wake up.
