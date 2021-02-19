@@ -1,3 +1,3 @@
-# Hello World 2021/02/18
+# Hello World 2021/02/19
 
-If you want to make your dreams come true, the first thing you have to do is wake up.
+If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
