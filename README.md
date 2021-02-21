@@ -1,3 +1,3 @@
-# Hello World 2021/02/20
+# Hello World 2021/02/21
 
-It is easy to sit up and take notice, What is difficult is getting up and taking action.
+Let go of who you think you're supposed to be; embrace who you are.
