@@ -1,3 +1,3 @@
-# Hello World 2021/02/23
+# Hello World 2021/02/24
 
-People who are crazy enough to think they can change the world, are the ones who do.
+When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
