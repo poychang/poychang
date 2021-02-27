@@ -1,3 +1,3 @@
-# Hello World 2021/02/26
+# Hello World 2021/02/27
 
-If you want to test your memory, try to recall what you were worrying about one year ago today.
+Vision without action is daydream. Action without vision is nightmare..
