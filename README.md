@@ -1,3 +1,3 @@
-# Hello World 2021/03/01
+# Hello World 2021/03/02
 
-If you want to make your dreams come true, the first thing you have to do is wake up.
+Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
