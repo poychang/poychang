@@ -1,3 +1,3 @@
-# Hello World 2021/03/02
+# Hello World 2021/03/03
 
-Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
+If we ever stop thinking about the person we want to become, we stop learning and taking risks.
