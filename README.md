@@ -1,3 +1,6 @@
-# Hello World 2021/03/03
+# Hello World 2021/03/04
 
-If we ever stop thinking about the person we want to become, we stop learning and taking risks.
+One does not accumulate but eliminate.
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.
