@@ -1,6 +1,3 @@
-# Hello World 2021/03/04
+# Hello World 2021/03/05
 
-One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.
+Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
