@@ -1,3 +1,3 @@
-# Hello World 2021/03/06
+# Hello World 2021/03/07
 
-I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.
+Stress is like a pulse, if you have it you are alive.
