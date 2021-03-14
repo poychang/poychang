@@ -1,3 +1,3 @@
-# Hello World 2021/03/13
+# Hello World 2021/03/14
 
-I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
+Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.
