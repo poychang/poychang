@@ -1,3 +1,3 @@
-# Hello World 2021/03/16
+# Hello World 2021/03/17
 
-Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
+It is easy to sit up and take notice, What is difficult is getting up and taking action.
