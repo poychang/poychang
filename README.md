@@ -1,3 +1,3 @@
-# Hello World 2021/03/19
+# Hello World 2021/03/20
 
-Your overnight success story is always a result of everything you have done in your life until that moment.
+You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
