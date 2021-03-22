@@ -1,3 +1,3 @@
-# Hello World 2021/03/21
+# Hello World 2021/03/22
 
-If you don't have confidence, you'll always find a way not to win
+Luck is a dividend of sweat. The more you sweat, the luckier you get
