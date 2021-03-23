@@ -1,3 +1,3 @@
-# Hello World 2021/03/22
+# Hello World 2021/03/23
 
-Luck is a dividend of sweat. The more you sweat, the luckier you get
+I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
