@@ -9,6 +9,8 @@ $readme = @"
 # Hello World $(Get-Date -Format 'yyyy/MM/dd')
 
 $(Get-Quote)
+
+![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true)
 "@
 
 $readme | Out-File -FilePath .\README.md
