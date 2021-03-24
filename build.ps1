@@ -10,7 +10,7 @@ $readme = @"
 
 $(Get-Quote)
 
-![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true)
+![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
 "@
 
 $readme | Out-File -FilePath .\README.md
