@@ -1,5 +1,5 @@
-# Hello World 2021/03/27
+# Hello World 2021/03/28
 
-Don't be tempted to break momentum-work through it.
+Great things are done by a series of small things brought together.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
