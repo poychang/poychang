@@ -1,5 +1,8 @@
-# Hello World 2021/03/28
+# Hello World 2021/03/29
 
-Great things are done by a series of small things brought together.
+One does not accumulate but eliminate.
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
