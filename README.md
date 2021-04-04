@@ -1,5 +1,5 @@
-# Hello World 2021/04/03
+# Hello World 2021/04/04
 
-Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
+Effort only fully releases its reward after a person refuses to quit.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
