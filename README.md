@@ -1,5 +1,5 @@
-# Hello World 2021/04/04
+# Hello World 2021/04/05
 
-Effort only fully releases its reward after a person refuses to quit.
+The best way to predict the future is to create it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
