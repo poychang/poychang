@@ -1,5 +1,5 @@
-# Hello World 2021/04/05
+# Hello World 2021/04/06
 
-The best way to predict the future is to create it.
+Sustenance! Your health is always the best prescription.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
