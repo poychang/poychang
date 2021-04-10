@@ -1,5 +1,5 @@
-# Hello World 2021/04/09
+# Hello World 2021/04/10
 
-Do the best you can until you know better. Then when you know better, do better.
+If you're changing the world, you're working on important things. You're excited to get up in the morning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
