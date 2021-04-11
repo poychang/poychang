@@ -1,5 +1,5 @@
-# Hello World 2021/04/10
+# Hello World 2021/04/11
 
-If you're changing the world, you're working on important things. You're excited to get up in the morning.
+Stress is like a pulse, if you have it you are alive.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
