@@ -1,8 +1,5 @@
-# Hello World 2021/04/12
+# Hello World 2021/04/13
 
-One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.
+It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
