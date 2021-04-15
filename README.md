@@ -1,5 +1,5 @@
-# Hello World 2021/04/14
+# Hello World 2021/04/15
 
-The man who removes a mountain begins by carrying away small stones..
+It is easy to sit up and take notice, What is difficult is getting up and taking action.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
