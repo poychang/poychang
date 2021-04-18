@@ -1,5 +1,5 @@
-# Hello World 2021/04/17
+# Hello World 2021/04/18
 
-Persistence is very important. You should not give up unless you are forced to give up.
+Perfection is not attainable, but if we chase perfection we can catch excellence..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
