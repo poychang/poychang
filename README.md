@@ -1,5 +1,5 @@
-# Hello World 2021/04/18
+# Hello World 2021/04/19
 
-Perfection is not attainable, but if we chase perfection we can catch excellence..
+Once your excuses are gone, you will simply have to settle for being awesome!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
