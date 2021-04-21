@@ -1,5 +1,5 @@
-# Hello World 2021/04/20
+# Hello World 2021/04/21
 
-An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
+If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
