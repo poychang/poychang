@@ -1,5 +1,5 @@
-# Hello World 2021/04/21
+# Hello World 2021/04/22
 
-If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
