@@ -1,5 +1,5 @@
-# Hello World 2021/04/22
+# Hello World 2021/04/23
 
-Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
+If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
