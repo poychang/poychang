@@ -1,5 +1,5 @@
-# Hello World 2021/04/25
+# Hello World 2021/04/26
 
-Named must your fear be before banish it you can.
+The best way to predict the future is to create it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
