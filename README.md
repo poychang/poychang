@@ -1,5 +1,5 @@
-# Hello World 2021/04/26
+# Hello World 2021/04/27
 
-The best way to predict the future is to create it.
+Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
