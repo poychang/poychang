@@ -1,5 +1,5 @@
-# Hello World 2021/05/01
+# Hello World 2021/05/02
 
-At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+Whether you think you can or think you can't, you're right..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
