@@ -1,5 +1,5 @@
-# Hello World 2021/05/04
+# Hello World 2021/05/05
 
-The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
+Do not be afraid to give up the good for the great.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
