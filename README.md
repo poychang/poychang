@@ -1,5 +1,5 @@
-# Hello World 2021/05/05
+# Hello World 2021/05/06
 
-Do not be afraid to give up the good for the great.
+We don't have to do all of it alone. We were never meant to.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
