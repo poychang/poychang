@@ -1,5 +1,5 @@
-# Hello World 2021/05/09
+# Hello World 2021/05/10
 
-If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.
+If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
