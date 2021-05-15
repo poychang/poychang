@@ -1,5 +1,5 @@
-# Hello World 2021/05/14
+# Hello World 2021/05/15
 
-Do not let what you cannot do interfere with what you can do.
+I am an optimist. It does not seem too much use being anything else..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
