@@ -1,5 +1,5 @@
-# Hello World 2021/05/18
+# Hello World 2021/05/19
 
-Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
+You make a living by what you earn; you make a life by what you give.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
