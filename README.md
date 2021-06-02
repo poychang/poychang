@@ -1,5 +1,5 @@
-# Hello World 2021/06/01
+# Hello World 2021/06/02
 
-One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.
+If you don't have confidence, you'll always find a way not to win
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
