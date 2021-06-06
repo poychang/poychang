@@ -1,5 +1,5 @@
-# Hello World 2021/06/05
+# Hello World 2021/06/06
 
-Winning is nice if you don't lose your integrity in the process.
+Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
