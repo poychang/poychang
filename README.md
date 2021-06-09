@@ -1,5 +1,5 @@
-# Hello World 2021/06/08
+# Hello World 2021/06/09
 
-Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.
+Vision without action is daydream. Action without vision is nightmare..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
