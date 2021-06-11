@@ -1,5 +1,5 @@
-# Hello World 2021/06/10
+# Hello World 2021/06/11
 
-From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
+People rise to the occasion without hesitation when they feel inspired and challenged.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
