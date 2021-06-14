@@ -1,5 +1,5 @@
-# Hello World 2021/06/13
+# Hello World 2021/06/14
 
-You must be the change you want to see in the world..
+Do the best you can until you know better. Then when you know better, do better.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
