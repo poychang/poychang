@@ -1,5 +1,5 @@
-# Hello World 2021/06/14
+# Hello World 2021/06/15
 
-Do the best you can until you know better. Then when you know better, do better.
+He who is not courageous enough to take risks will accomplish nothing in life.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
