@@ -1,5 +1,5 @@
-# Hello World 2021/06/15
+# Hello World 2021/06/16
 
-He who is not courageous enough to take risks will accomplish nothing in life.
+Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
