@@ -1,5 +1,5 @@
-# Hello World 2021/06/17
+# Hello World 2021/06/18
 
-From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
+If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
