@@ -1,5 +1,5 @@
-# Hello World 2021/06/19
+# Hello World 2021/06/20
 
-At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+If you're changing the world, you're working on important things. You're excited to get up in the morning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
