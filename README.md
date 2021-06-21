@@ -1,5 +1,5 @@
-# Hello World 2021/06/20
+# Hello World 2021/06/21
 
-If you're changing the world, you're working on important things. You're excited to get up in the morning.
+Winning isn't everything.. It's the only thing.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
