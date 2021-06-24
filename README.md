@@ -1,5 +1,5 @@
-# Hello World 2021/06/23
+# Hello World 2021/06/24
 
-You must be the change you want to see in the world..
+Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
