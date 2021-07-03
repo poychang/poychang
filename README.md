@@ -1,5 +1,5 @@
-# Hello World 2021/07/02
+# Hello World 2021/07/03
 
-I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
+Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
