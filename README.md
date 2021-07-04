@@ -1,5 +1,5 @@
-# Hello World 2021/07/03
+# Hello World 2021/07/04
 
-Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+Logic will get you from A to B. Imagination will take you everywhere.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
