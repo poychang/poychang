@@ -1,5 +1,5 @@
-# Hello World 2021/07/05
+# Hello World 2021/07/06
 
-Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
+The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
