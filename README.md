@@ -1,5 +1,5 @@
-# Hello World 2021/07/12
+# Hello World 2021/07/13
 
-Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
