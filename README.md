@@ -1,5 +1,5 @@
-# Hello World 2021/07/13
+# Hello World 2021/07/14
 
-What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!
+Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
