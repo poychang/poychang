@@ -1,5 +1,5 @@
-# Hello World 2021/07/18
+# Hello World 2021/07/19
 
-It is easy to sit up and take notice, What is difficult is getting up and taking action.
+The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
