@@ -1,5 +1,5 @@
-# Hello World 2021/07/19
+# Hello World 2021/07/20
 
-The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
+It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
