@@ -1,5 +1,5 @@
-# Hello World 2021/07/26
+# Hello World 2021/07/28
 
-Luck is a dividend of sweat. The more you sweat, the luckier you get
+When you win, say nothing. When you lose, say less.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
