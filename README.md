@@ -1,5 +1,5 @@
-# Hello World 2021/07/28
+# Hello World 2021/07/29
 
-When you win, say nothing. When you lose, say less.
+Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
