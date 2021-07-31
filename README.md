@@ -1,5 +1,5 @@
-# Hello World 2021/07/30
+# Hello World 2021/07/31
 
-I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.
+Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
