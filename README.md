@@ -1,5 +1,5 @@
-# Hello World 2021/08/04
+# Hello World 2021/08/05
 
-If you want to make your dreams come true, the first thing you have to do is wake up.
+If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
