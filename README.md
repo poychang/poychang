@@ -1,5 +1,5 @@
-# Hello World 2021/08/12
+# Hello World 2021/08/13
 
-It is easy to sit up and take notice, What is difficult is getting up and taking action.
+Stress is like a pulse, if you have it you are alive.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
