@@ -1,5 +1,5 @@
-# Hello World 2021/08/13
+# Hello World 2021/08/14
 
-Stress is like a pulse, if you have it you are alive.
+In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
