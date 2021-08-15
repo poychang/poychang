@@ -1,5 +1,5 @@
-# Hello World 2021/08/14
+# Hello World 2021/08/15
 
-In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.
+Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
