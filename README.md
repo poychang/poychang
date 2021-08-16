@@ -1,5 +1,5 @@
-# Hello World 2021/08/15
+# Hello World 2021/08/16
 
-Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
+When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
