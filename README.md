@@ -1,5 +1,5 @@
-# Hello World 2021/08/18
+# Hello World 2021/08/19
 
-It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
