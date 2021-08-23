@@ -1,5 +1,5 @@
-# Hello World 2021/08/22
+# Hello World 2021/08/23
 
-You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.
+If you don't have confidence, you'll always find a way not to win
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
