@@ -1,5 +1,5 @@
-# Hello World 2021/08/25
+# Hello World 2021/08/26
 
-Your life does not get better by chance. It gets better by change.
+The real opportunity for success lies within the person and not in the job.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
