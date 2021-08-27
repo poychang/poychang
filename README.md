@@ -1,5 +1,5 @@
-# Hello World 2021/08/26
+# Hello World 2021/08/27
 
-The real opportunity for success lies within the person and not in the job.
+Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
