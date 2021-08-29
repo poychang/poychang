@@ -1,5 +1,5 @@
-# Hello World 2021/08/28
+# Hello World 2021/08/29
 
-We don't have to do all of it alone. We were never meant to.
+A show of confidence raises the bar
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
