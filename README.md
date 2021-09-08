@@ -1,5 +1,5 @@
-# Hello World 2021/09/07
+# Hello World 2021/09/08
 
-Some men see things as they are and say why.. I dream things that never were and say why not.
+I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
