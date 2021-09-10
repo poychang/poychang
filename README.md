@@ -1,5 +1,5 @@
-# Hello World 2021/09/09
+# Hello World 2021/09/10
 
-I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name.
+Effort only fully releases its reward after a person refuses to quit.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
