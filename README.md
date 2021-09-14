@@ -1,5 +1,5 @@
-# Hello World 2021/09/13
+# Hello World 2021/09/14
 
-Sustenance! Your health is always the best prescription.
+The real opportunity for success lies within the person and not in the job.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
