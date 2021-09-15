@@ -1,5 +1,5 @@
-# Hello World 2021/09/14
+# Hello World 2021/09/15
 
-The real opportunity for success lies within the person and not in the job.
+Stress is like a pulse, if you have it you are alive.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
