@@ -1,5 +1,5 @@
-# Hello World 2021/09/15
+# Hello World 2021/09/16
 
-Stress is like a pulse, if you have it you are alive.
+Vision without action is daydream. Action without vision is nightmare..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
