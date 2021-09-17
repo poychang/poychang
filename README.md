@@ -1,5 +1,5 @@
-# Hello World 2021/09/16
+# Hello World 2021/09/17
 
-Vision without action is daydream. Action without vision is nightmare..
+If you don't have confidence, you'll always find a way not to win
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
