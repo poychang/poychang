@@ -1,5 +1,5 @@
-# Hello World 2021/09/17
+# Hello World 2021/09/18
 
-If you don't have confidence, you'll always find a way not to win
+If you want to test your memory, try to recall what you were worrying about one year ago today.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
