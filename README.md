@@ -1,5 +1,5 @@
-# Hello World 2021/09/18
+# Hello World 2021/09/19
 
-If you want to test your memory, try to recall what you were worrying about one year ago today.
+Do the best you can until you know better. Then when you know better, do better.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
