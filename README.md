@@ -1,5 +1,5 @@
-# Hello World 2021/09/19
+# Hello World 2021/09/20
 
-Do the best you can until you know better. Then when you know better, do better.
+Effort only fully releases its reward after a person refuses to quit.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
