@@ -1,5 +1,5 @@
-# Hello World 2021/09/20
+# Hello World 2021/09/21
 
-Effort only fully releases its reward after a person refuses to quit.
+When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
