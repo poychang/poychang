@@ -1,5 +1,5 @@
-# Hello World 2021/09/25
+# Hello World 2021/09/26
 
-There's such a thin line between winning and losing.
+Stop complaining. Start creating.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
