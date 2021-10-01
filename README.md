@@ -1,5 +1,5 @@
-# Hello World 2021/09/30
+# Hello World 2021/10/01
 
-If you're changing the world, you're working on important things. You're excited to get up in the morning.
+I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
