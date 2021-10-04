@@ -1,5 +1,5 @@
-# Hello World 2021/10/03
+# Hello World 2021/10/04
 
-Named must your fear be before banish it you can.
+It wasn't raining when Noah built the ark..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
