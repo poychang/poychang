@@ -1,5 +1,5 @@
-# Hello World 2021/10/04
+# Hello World 2021/10/05
 
-It wasn't raining when Noah built the ark..
+Remember that you are very special, no one can play your role better than you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
