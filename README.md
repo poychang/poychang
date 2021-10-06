@@ -1,5 +1,5 @@
-# Hello World 2021/10/05
+# Hello World 2021/10/06
 
-Remember that you are very special, no one can play your role better than you.
+You will never win if you never begin.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
