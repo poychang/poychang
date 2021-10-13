@@ -1,5 +1,5 @@
-# Hello World 2021/10/12
+# Hello World 2021/10/13
 
-If you don't have confidence, you'll always find a way not to win
+A show of confidence raises the bar
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
