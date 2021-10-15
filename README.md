@@ -1,5 +1,5 @@
-# Hello World 2021/10/14
+# Hello World 2021/10/15
 
-When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+The real opportunity for success lies within the person and not in the job.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
