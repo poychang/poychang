@@ -1,5 +1,5 @@
-# Hello World 2021/10/17
+# Hello World 2021/10/18
 
-Logic will get you from A to B. Imagination will take you everywhere.
+Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
