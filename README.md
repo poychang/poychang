@@ -1,5 +1,5 @@
-# Hello World 2021/10/20
+# Hello World 2021/10/21
 
-Your life does not get better by chance. It gets better by change.
+Effort only fully releases its reward after a person refuses to quit.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
