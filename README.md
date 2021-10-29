@@ -1,5 +1,5 @@
-# Hello World 2021/10/28
+# Hello World 2021/10/29
 
-You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).
+All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
