@@ -1,5 +1,5 @@
-# Hello World 2021/11/14
+# Hello World 2021/11/15
 
-Stress is like a pulse, if you have it you are alive.
+Winning isn't everything.. It's the only thing.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
