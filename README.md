@@ -1,5 +1,5 @@
-# Hello World 2021/11/15
+# Hello World 2021/11/16
 
-Winning isn't everything.. It's the only thing.
+People who are crazy enough to think they can change the world, are the ones who do.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
