@@ -1,5 +1,5 @@
-# Hello World 2021/11/20
+# Hello World 2021/11/21
 
-Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+Vision without action is daydream. Action without vision is nightmare..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
