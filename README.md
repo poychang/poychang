@@ -1,5 +1,5 @@
-# Hello World 2021/11/27
+# Hello World 2021/11/28
 
-If I work as hard as I can, I wonder how much I can do in a day?
+At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
