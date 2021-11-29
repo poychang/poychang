@@ -1,5 +1,5 @@
-# Hello World 2021/11/28
+# Hello World 2021/11/29
 
-At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+Don't be tempted to break momentum-work through it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
