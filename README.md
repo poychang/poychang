@@ -1,5 +1,5 @@
-# Hello World 2021/11/29
+# Hello World 2021/11/30
 
-Don't be tempted to break momentum-work through it.
+Luck is a dividend of sweat. The more you sweat, the luckier you get
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
