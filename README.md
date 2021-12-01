@@ -1,5 +1,5 @@
-# Hello World 2021/11/30
+# Hello World 2021/12/01
 
-Luck is a dividend of sweat. The more you sweat, the luckier you get
+A man who has no imagination has no wings.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
