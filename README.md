@@ -1,5 +1,5 @@
-# Hello World 2021/12/04
+# Hello World 2021/12/05
 
-Perfection is not attainable, but if we chase perfection we can catch excellence..
+People who are crazy enough to think they can change the world, are the ones who do.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
