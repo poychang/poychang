@@ -1,5 +1,5 @@
-# Hello World 2021/12/07
+# Hello World 2021/12/08
 
-It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+If you want to make your dreams come true, the first thing you have to do is wake up.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
