@@ -1,5 +1,5 @@
-# Hello World 2021/12/15
+# Hello World 2021/12/16
 
-Vision without action is daydream. Action without vision is nightmare..
+He who is not courageous enough to take risks will accomplish nothing in life.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
