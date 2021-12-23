@@ -1,5 +1,5 @@
-# Hello World 2021/12/21
+# Hello World 2021/12/23
 
-If you have dreams it is your responsibility to make them happen.
+A quitter never wins and a winner never quits
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
