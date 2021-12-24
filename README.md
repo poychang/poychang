@@ -1,5 +1,5 @@
-# Hello World 2021/12/23
+# Hello World 2021/12/24
 
-A quitter never wins and a winner never quits
+Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
