@@ -1,5 +1,5 @@
-# Hello World 2021/12/26
+# Hello World 2021/12/27
 
-Your life does not get better by chance. It gets better by change.
+Stop complaining. Start creating.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
