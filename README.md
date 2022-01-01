@@ -1,5 +1,5 @@
-# Hello World 2021/12/31
+# Hello World 2022/01/01
 
-If I work as hard as I can, I wonder how much I can do in a day?
+You are very powerful, provided you know how powerful you are.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
