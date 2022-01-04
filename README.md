@@ -1,5 +1,5 @@
-# Hello World 2022/01/03
+# Hello World 2022/01/04
 
-If you're changing the world, you're working on important things. You're excited to get up in the morning.
+It wasn't raining when Noah built the ark..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
