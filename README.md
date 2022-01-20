@@ -1,5 +1,5 @@
-# Hello World 2022/01/11
+# Hello World 2022/01/20
 
-The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
+If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
