@@ -1,5 +1,5 @@
-# Hello World 2022/01/22
+# Hello World 2022/01/23
 
-A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.
+The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
