@@ -1,5 +1,5 @@
-# Hello World 2022/01/26
+# Hello World 2022/01/27
 
-If you can consciously let yourself get taken and see where you go, that's an exercise. That's discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.
+Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
