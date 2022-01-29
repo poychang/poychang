@@ -1,5 +1,5 @@
-# Hello World 2022/01/28
+# Hello World 2022/01/29
 
-Some men see things as they are and say why.. I dream things that never were and say why not.
+People rise to the occasion without hesitation when they feel inspired and challenged.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
