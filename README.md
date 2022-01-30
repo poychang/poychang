@@ -1,5 +1,5 @@
-# Hello World 2022/01/29
+# Hello World 2022/01/30
 
-People rise to the occasion without hesitation when they feel inspired and challenged.
+When you win, say nothing. When you lose, say less.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
