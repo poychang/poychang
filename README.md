@@ -1,5 +1,5 @@
-# Hello World 2022/02/02
+# Hello World 2022/02/03
 
-When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+Luck is a dividend of sweat. The more you sweat, the luckier you get
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
