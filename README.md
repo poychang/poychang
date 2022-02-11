@@ -1,5 +1,5 @@
-# Hello World 2022/02/10
+# Hello World 2022/02/11
 
-Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.
+Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
