@@ -1,5 +1,5 @@
-# Hello World 2022/02/12
+# Hello World 2022/02/13
 
-Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
+The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
