@@ -1,5 +1,5 @@
-# Hello World 2022/02/13
+# Hello World 2022/02/14
 
-The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
+We lose ourselves in the things we love. We find ourselves there, too.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
