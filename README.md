@@ -1,5 +1,5 @@
-# Hello World 2022/02/19
+# Hello World 2022/02/20
 
-Excellence prospers in the absence of excuses.
+A quitter never wins and a winner never quits
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
