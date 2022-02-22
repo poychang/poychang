@@ -1,5 +1,5 @@
-# Hello World 2022/02/21
+# Hello World 2022/02/22
 
-Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
+If you're changing the world, you're working on important things. You're excited to get up in the morning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
