@@ -1,5 +1,5 @@
-# Hello World 2022/02/23
+# Hello World 2022/02/24
 
-If you don't have confidence, you'll always find a way not to win
+People who are crazy enough to think they can change the world, are the ones who do.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
