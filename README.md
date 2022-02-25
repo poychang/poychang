@@ -1,5 +1,5 @@
-# Hello World 2022/02/24
+# Hello World 2022/02/25
 
-People who are crazy enough to think they can change the world, are the ones who do.
+By failing to prepare, you are preparing to fail.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
