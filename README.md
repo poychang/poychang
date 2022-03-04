@@ -1,5 +1,5 @@
-# Hello World 2022/03/03
+# Hello World 2022/03/04
 
-You make a living by what you earn; you make a life by what you give.
+Let our advance worrying become advance thinking and planning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
