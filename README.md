@@ -1,5 +1,5 @@
-# Hello World 2022/03/04
+# Hello World 2022/03/05
 
-Let our advance worrying become advance thinking and planning.
+When you win, say nothing. When you lose, say less.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
