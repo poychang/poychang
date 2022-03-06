@@ -1,5 +1,5 @@
-# Hello World 2022/03/05
+# Hello World 2022/03/06
 
-When you win, say nothing. When you lose, say less.
+Your life does not get better by chance. It gets better by change.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
