@@ -1,5 +1,5 @@
-# Hello World 2022/03/11
+# Hello World 2022/03/12
 
-Luck is a dividend of sweat. The more you sweat, the luckier you get
+Great things are done by a series of small things brought together.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
