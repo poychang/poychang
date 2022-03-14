@@ -1,5 +1,5 @@
-# Hello World 2022/03/13
+# Hello World 2022/03/14
 
-If you cannot do great things, do small things in a great way.
+If you're changing the world, you're working on important things. You're excited to get up in the morning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
