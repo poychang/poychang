@@ -1,5 +1,5 @@
-# Hello World 2022/03/14
+# Hello World 2022/03/15
 
-If you're changing the world, you're working on important things. You're excited to get up in the morning.
+Your overnight success story is always a result of everything you have done in your life until that moment.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
