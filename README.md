@@ -1,5 +1,5 @@
-# Hello World 2022/03/15
+# Hello World 2022/03/16
 
-Your overnight success story is always a result of everything you have done in your life until that moment.
+The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
