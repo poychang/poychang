@@ -1,5 +1,5 @@
-# Hello World 2022/03/21
+# Hello World 2022/03/22
 
-Let our advance worrying become advance thinking and planning.
+Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
