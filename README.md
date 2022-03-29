@@ -1,5 +1,5 @@
-# Hello World 2022/03/28
+# Hello World 2022/03/29
 
-He who is not courageous enough to take risks will accomplish nothing in life.
+The determination to win is the better part of winning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
