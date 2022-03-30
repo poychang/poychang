@@ -1,5 +1,5 @@
-# Hello World 2022/03/29
+# Hello World 2022/03/30
 
-The determination to win is the better part of winning.
+Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
