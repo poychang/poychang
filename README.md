@@ -1,5 +1,5 @@
-# Hello World 2022/04/03
+# Hello World 2022/04/04
 
-Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.
+If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
