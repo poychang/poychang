@@ -1,5 +1,5 @@
-# Hello World 2022/04/04
+# Hello World 2022/04/05
 
-If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.
+We don't have to do all of it alone. We were never meant to.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
