@@ -1,5 +1,5 @@
-# Hello World 2022/04/13
+# Hello World 2022/04/14
 
-Whether you think you can or think you can't, you're right..
+I am an optimist. It does not seem too much use being anything else..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
