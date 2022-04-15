@@ -1,5 +1,5 @@
-# Hello World 2022/04/14
+# Hello World 2022/04/15
 
-I am an optimist. It does not seem too much use being anything else..
+Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
