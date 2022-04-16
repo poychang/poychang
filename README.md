@@ -1,5 +1,5 @@
-# Hello World 2022/04/15
+# Hello World 2022/04/16
 
-Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+If you like what you do, and you're lucky enough to be good at it, do it for that reason.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
