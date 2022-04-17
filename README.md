@@ -1,5 +1,5 @@
-# Hello World 2022/04/16
+# Hello World 2022/04/17
 
-If you like what you do, and you're lucky enough to be good at it, do it for that reason.
+Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
