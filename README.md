@@ -1,5 +1,5 @@
-# Hello World 2022/04/18
+# Hello World 2022/04/19
 
-Think in terms of opportunities and solutions instead of problems, disappointment, and failure.
+Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
