@@ -1,5 +1,5 @@
-# Hello World 2022/04/22
+# Hello World 2022/04/23
 
-It wasn't raining when Noah built the ark..
+An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
