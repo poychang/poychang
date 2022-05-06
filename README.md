@@ -1,5 +1,5 @@
-# Hello World 2022/05/05
+# Hello World 2022/05/06
 
-Winning is nice if you don't lose your integrity in the process.
+Excellence prospers in the absence of excuses.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
