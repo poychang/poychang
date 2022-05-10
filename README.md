@@ -1,5 +1,5 @@
-# Hello World 2022/05/09
+# Hello World 2022/05/10
 
-If you are born poor, it is not your mistake. But if you die poor it is your mistake.
+If you don't have confidence, you'll always find a way not to win
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
