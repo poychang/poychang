@@ -1,5 +1,5 @@
-# Hello World 2022/05/11
+# Hello World 2022/05/12
 
-We don't have to do all of it alone. We were never meant to.
+People who are crazy enough to think they can change the world, are the ones who do.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
