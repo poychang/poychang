@@ -1,5 +1,5 @@
-# Hello World 2022/05/16
+# Hello World 2022/05/17
 
-Remove the temptation to settle for anything short of what you deserve.
+Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
