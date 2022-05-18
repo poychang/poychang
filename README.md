@@ -1,5 +1,5 @@
-# Hello World 2022/05/17
+# Hello World 2022/05/18
 
-Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
+The determination to win is the better part of winning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
