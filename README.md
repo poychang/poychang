@@ -1,5 +1,5 @@
-# Hello World 2022/05/19
+# Hello World 2022/05/20
 
-Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
+Effort only fully releases its reward after a person refuses to quit.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
