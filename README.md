@@ -1,5 +1,5 @@
-# Hello World 2022/05/27
+# Hello World 2022/05/28
 
-The journey of a thousand miles begins with one step.
+Vision without action is daydream. Action without vision is nightmare..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
