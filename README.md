@@ -1,5 +1,5 @@
-# Hello World 2022/05/28
+# Hello World 2022/05/29
 
-Vision without action is daydream. Action without vision is nightmare..
+There's such a thin line between winning and losing.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
