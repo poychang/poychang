@@ -1,5 +1,5 @@
-# Hello World 2022/05/29
+# Hello World 2022/05/30
 
-There's such a thin line between winning and losing.
+When there is no distraction, there is clarity.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
