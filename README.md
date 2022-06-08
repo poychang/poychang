@@ -1,5 +1,5 @@
-# Hello World 2022/06/07
+# Hello World 2022/06/08
 
-Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
+If you like what you do, and you're lucky enough to be good at it, do it for that reason.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
