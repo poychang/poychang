@@ -1,5 +1,5 @@
-# Hello World 2022/06/12
+# Hello World 2022/06/13
 
-A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.
+Sustenance! Your health is always the best prescription.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
