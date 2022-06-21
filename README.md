@@ -1,5 +1,5 @@
-# Hello World 2022/06/20
+# Hello World 2022/06/21
 
-People rise to the occasion without hesitation when they feel inspired and challenged.
+What you do speaks so loudly that I cannot hear what you say.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
