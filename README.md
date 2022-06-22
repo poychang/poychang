@@ -1,5 +1,5 @@
-# Hello World 2022/06/21
+# Hello World 2022/06/22
 
-What you do speaks so loudly that I cannot hear what you say.
+You will never win if you never begin.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
