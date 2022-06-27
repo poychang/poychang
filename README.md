@@ -1,5 +1,5 @@
-# Hello World 2022/06/26
+# Hello World 2022/06/27
 
-Some men see things as they are and say why.. I dream things that never were and say why not.
+You must be the change you want to see in the world..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
