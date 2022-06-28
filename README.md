@@ -1,5 +1,5 @@
-# Hello World 2022/06/27
+# Hello World 2022/06/28
 
-You must be the change you want to see in the world..
+A show of confidence raises the bar
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
