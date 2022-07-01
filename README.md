@@ -1,5 +1,5 @@
-# Hello World 2022/06/30
+# Hello World 2022/07/01
 
-It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+Winning isn't everything.. It's the only thing.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
