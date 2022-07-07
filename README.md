@@ -1,5 +1,5 @@
-# Hello World 2022/07/06
+# Hello World 2022/07/07
 
-When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, 'Damn. That really hurt, but this is important to me and I'm going in again'-my gut reaction is, 'What a badass.'
+Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
