@@ -1,5 +1,5 @@
-# Hello World 2022/07/07
+# Hello World 2022/07/08
 
-Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.
+Let our advance worrying become advance thinking and planning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
