@@ -1,5 +1,5 @@
-# Hello World 2022/07/08
+# Hello World 2022/07/09
 
-Let our advance worrying become advance thinking and planning.
+You are very powerful, provided you know how powerful you are.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
