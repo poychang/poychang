@@ -1,5 +1,5 @@
-# Hello World 2022/07/10
+# Hello World 2022/07/11
 
-Whether you think you can or think you can't, you're right..
+You must be the change you want to see in the world..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
