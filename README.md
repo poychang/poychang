@@ -1,5 +1,5 @@
-# Hello World 2022/07/11
+# Hello World 2022/07/12
 
-You must be the change you want to see in the world..
+Perfection is not attainable, but if we chase perfection we can catch excellence..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
