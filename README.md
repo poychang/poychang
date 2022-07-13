@@ -1,5 +1,5 @@
-# Hello World 2022/07/12
+# Hello World 2022/07/13
 
-Perfection is not attainable, but if we chase perfection we can catch excellence..
+It is easy to sit up and take notice, What is difficult is getting up and taking action.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
