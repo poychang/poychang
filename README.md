@@ -1,5 +1,5 @@
-# Hello World 2022/07/13
+# Hello World 2022/07/14
 
-It is easy to sit up and take notice, What is difficult is getting up and taking action.
+Let go of who you think you're supposed to be; embrace who you are.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
