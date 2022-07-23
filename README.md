@@ -1,5 +1,5 @@
-# Hello World 2022/07/22
+# Hello World 2022/07/23
 
-Sometimes the bravest and most important thing you can do is just show up.
+Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
