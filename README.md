@@ -1,5 +1,5 @@
-# Hello World 2022/07/24
+# Hello World 2022/07/25
 
-Don't be tempted to break momentum-work through it.
+You will never win if you never begin.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
