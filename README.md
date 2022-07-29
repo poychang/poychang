@@ -1,5 +1,5 @@
-# Hello World 2022/07/28
+# Hello World 2022/07/29
 
-Winning is nice if you don't lose your integrity in the process.
+An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
