@@ -1,5 +1,5 @@
-# Hello World 2022/07/30
+# Hello World 2022/07/31
 
-If you have dreams it is your responsibility to make them happen.
+Where there is ruin, there is hope for a treasure.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
