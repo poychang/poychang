@@ -1,5 +1,5 @@
-# Hello World 2022/07/31
+# Hello World 2022/08/01
 
-Where there is ruin, there is hope for a treasure.
+You are very powerful, provided you know how powerful you are.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
