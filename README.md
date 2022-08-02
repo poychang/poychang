@@ -1,5 +1,5 @@
-# Hello World 2022/08/01
+# Hello World 2022/08/02
 
-You are very powerful, provided you know how powerful you are.
+Beyond a certain point there is no return. This point has to be reached.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
