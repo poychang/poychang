@@ -1,5 +1,5 @@
-# Hello World 2022/08/02
+# Hello World 2022/08/03
 
-Beyond a certain point there is no return. This point has to be reached.
+Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
