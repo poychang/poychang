@@ -1,5 +1,5 @@
-# Hello World 2022/08/04
+# Hello World 2022/08/05
 
-It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
