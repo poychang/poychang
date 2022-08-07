@@ -1,5 +1,5 @@
-# Hello World 2022/08/06
+# Hello World 2022/08/07
 
-Vision without action is daydream. Action without vision is nightmare..
+Excellence prospers in the absence of excuses.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
