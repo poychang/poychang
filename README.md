@@ -1,5 +1,5 @@
-# Hello World 2022/08/07
+# Hello World 2022/08/08
 
-Excellence prospers in the absence of excuses.
+Whether you think you can or think you can't, you're right..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
