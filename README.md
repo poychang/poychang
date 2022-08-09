@@ -1,5 +1,5 @@
-# Hello World 2022/08/08
+# Hello World 2022/08/09
 
-Whether you think you can or think you can't, you're right..
+When you win, say nothing. When you lose, say less.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
