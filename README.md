@@ -1,5 +1,5 @@
-# Hello World 2022/08/12
+# Hello World 2022/08/13
 
-A man who has no imagination has no wings.
+We don't have to do all of it alone. We were never meant to.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
