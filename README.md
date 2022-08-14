@@ -1,5 +1,5 @@
-# Hello World 2022/08/13
+# Hello World 2022/08/14
 
-We don't have to do all of it alone. We were never meant to.
+You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
