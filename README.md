@@ -1,5 +1,5 @@
-# Hello World 2022/08/17
+# Hello World 2022/08/18
 
-All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.
+Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
