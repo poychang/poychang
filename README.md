@@ -1,5 +1,5 @@
-# Hello World 2022/08/23
+# Hello World 2022/08/24
 
-You must be the change you want to see in the world..
+You make a living by what you earn; you make a life by what you give.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
