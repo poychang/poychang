@@ -1,5 +1,5 @@
-# Hello World 2022/08/24
+# Hello World 2022/08/25
 
-You make a living by what you earn; you make a life by what you give.
+From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
