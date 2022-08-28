@@ -1,5 +1,5 @@
-# Hello World 2022/08/27
+# Hello World 2022/08/28
 
-Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+Luck is a dividend of sweat. The more you sweat, the luckier you get
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
