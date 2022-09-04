@@ -1,5 +1,5 @@
-# Hello World 2022/09/03
+# Hello World 2022/09/04
 
-Do not let what you cannot do interfere with what you can do.
+Logic will get you from A to B. Imagination will take you everywhere.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
