@@ -1,5 +1,5 @@
-# Hello World 2022/09/05
+# Hello World 2022/09/06
 
-Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
+You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
