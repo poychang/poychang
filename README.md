@@ -1,5 +1,5 @@
-# Hello World 2022/09/10
+# Hello World 2022/09/11
 
-A quitter never wins and a winner never quits
+You are very powerful, provided you know how powerful you are.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
