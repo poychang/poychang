@@ -1,5 +1,5 @@
-# Hello World 2022/09/18
+# Hello World 2022/09/19
 
-Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
+The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
