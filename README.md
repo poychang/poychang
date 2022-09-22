@@ -1,5 +1,5 @@
-# Hello World 2022/09/21
+# Hello World 2022/09/22
 
-Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+If we ever stop thinking about the person we want to become, we stop learning and taking risks.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
