@@ -1,5 +1,5 @@
-# Hello World 2022/09/26
+# Hello World 2022/09/28
 
-Effort only fully releases its reward after a person refuses to quit.
+He who is not courageous enough to take risks will accomplish nothing in life.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
