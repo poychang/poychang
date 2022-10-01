@@ -1,5 +1,5 @@
-# Hello World 2022/09/30
+# Hello World 2022/10/01
 
-Win any way as long as you can get away with it. Nice guys finish last.
+Winning is not everything, but the effort to win is.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
