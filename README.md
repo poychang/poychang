@@ -1,5 +1,5 @@
-# Hello World 2022/10/01
+# Hello World 2022/10/02
 
-Winning is not everything, but the effort to win is.
+Excellence prospers in the absence of excuses.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
