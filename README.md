@@ -1,5 +1,5 @@
-# Hello World 2022/10/04
+# Hello World 2022/10/05
 
-It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.
+A successful man is one who can lay a firm foundation with the bricks that others throw at him.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
