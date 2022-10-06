@@ -1,5 +1,5 @@
-# Hello World 2022/10/05
+# Hello World 2022/10/06
 
-A successful man is one who can lay a firm foundation with the bricks that others throw at him.
+We lose ourselves in the things we love. We find ourselves there, too.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
