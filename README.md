@@ -1,5 +1,5 @@
-# Hello World 2022/10/09
+# Hello World 2022/10/10
 
-Great things are done by a series of small things brought together.
+I know for sure that what we dwell on is who we become.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
