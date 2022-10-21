@@ -1,5 +1,5 @@
-# Hello World 2022/10/20
+# Hello World 2022/10/21
 
-At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
