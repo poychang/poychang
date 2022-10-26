@@ -1,5 +1,5 @@
-# Hello World 2022/10/25
+# Hello World 2022/10/26
 
-The journey of a thousand miles begins with one step.
+What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
