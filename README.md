@@ -1,5 +1,5 @@
-# Hello World 2022/11/01
+# Hello World 2022/11/02
 
-Let our advance worrying become advance thinking and planning.
+The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
