@@ -1,5 +1,5 @@
-# Hello World 2022/11/03
+# Hello World 2022/11/04
 
-A show of confidence raises the bar
+It wasn't raining when Noah built the ark..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
