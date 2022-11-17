@@ -1,5 +1,5 @@
-# Hello World 2022/11/15
+# Hello World 2022/11/17
 
-I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.
+When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
