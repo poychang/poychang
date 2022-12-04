@@ -1,5 +1,5 @@
-# Hello World 2022/11/28
+# Hello World 2022/12/04
 
-Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
+You will never win if you never begin.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
