@@ -1,5 +1,5 @@
-# Hello World 2022/12/12
+# Hello World 2022/12/13
 
-Named must your fear be before banish it you can.
+Let go of who you think you're supposed to be; embrace who you are.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
