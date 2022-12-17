@@ -1,5 +1,5 @@
-# Hello World 2022/12/16
+# Hello World 2022/12/17
 
-What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?
+Your overnight success story is always a result of everything you have done in your life until that moment.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
