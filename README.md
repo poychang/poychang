@@ -1,5 +1,5 @@
-# Hello World 2022/12/19
+# Hello World 2022/12/20
 
-Where there is ruin, there is hope for a treasure.
+Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
