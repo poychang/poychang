@@ -1,5 +1,5 @@
-# Hello World 2022/12/20
+# Hello World 2022/12/21
 
-Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
+Failure is the condiment that gives success its flavor.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
