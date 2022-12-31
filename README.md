@@ -1,5 +1,5 @@
-# Hello World 2022/12/30
+# Hello World 2022/12/31
 
-If I work as hard as I can, I wonder how much I can do in a day?
+Extend beyond your preconceived limits!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
