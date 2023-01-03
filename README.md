@@ -1,5 +1,5 @@
-# Hello World 2023/01/02
+# Hello World 2023/01/03
 
-Excellence prospers in the absence of excuses.
+Remember that you are very special, no one can play your role better than you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
