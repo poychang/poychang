@@ -1,5 +1,5 @@
-# Hello World 2023/01/10
+# Hello World 2023/01/11
 
-A man who has no imagination has no wings.
+The journey of a thousand miles begins with one step.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
