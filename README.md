@@ -1,5 +1,5 @@
-# Hello World 2023/01/15
+# Hello World 2023/01/16
 
-The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.
+Think in terms of opportunities and solutions instead of problems, disappointment, and failure.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
