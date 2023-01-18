@@ -1,5 +1,5 @@
-# Hello World 2023/01/17
+# Hello World 2023/01/18
 
-Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.
+It wasn't raining when Noah built the ark..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
