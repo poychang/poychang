@@ -1,5 +1,5 @@
-# Hello World 2023/01/22
+# Hello World 2023/01/23
 
-Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.
+Winning is nice if you don't lose your integrity in the process.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
