@@ -1,5 +1,5 @@
-# Hello World 2023/01/24
+# Hello World 2023/01/25
 
-In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.
+There's such a thin line between winning and losing.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
