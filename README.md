@@ -1,5 +1,5 @@
-# Hello World 2023/02/02
+# Hello World 2023/02/03
 
-If I work as hard as I can, I wonder how much I can do in a day?
+The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
