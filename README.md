@@ -1,5 +1,5 @@
-# Hello World 2023/02/06
+# Hello World 2023/02/07
 
-Even if you're on the right track, you'll get run over if you just sit there..
+Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
