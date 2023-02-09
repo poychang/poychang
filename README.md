@@ -1,5 +1,5 @@
-# Hello World 2023/02/08
+# Hello World 2023/02/09
 
-Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
+Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
