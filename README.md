@@ -1,5 +1,5 @@
-# Hello World 2023/02/10
+# Hello World 2023/02/11
 
-Don't be tempted to break momentum-work through it.
+Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
