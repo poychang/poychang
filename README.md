@@ -1,5 +1,5 @@
-# Hello World 2023/02/22
+# Hello World 2023/02/23
 
-Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
+Failure is the condiment that gives success its flavor.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
