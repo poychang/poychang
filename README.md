@@ -1,5 +1,5 @@
-# Hello World 2023/02/24
+# Hello World 2023/02/25
 
-Things are not bad in themselves, but our cowardice makes them so.
+Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
