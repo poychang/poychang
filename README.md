@@ -1,5 +1,5 @@
-# Hello World 2023/02/26
+# Hello World 2023/02/27
 
-We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light
+The man who has confidence in himself gains the confidence of others.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
