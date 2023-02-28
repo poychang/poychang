@@ -1,5 +1,5 @@
-# Hello World 2023/02/27
+# Hello World 2023/02/28
 
-The man who has confidence in himself gains the confidence of others.
+It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
