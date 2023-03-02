@@ -1,5 +1,5 @@
-# Hello World 2023/03/01
+# Hello World 2023/03/02
 
-People rise to the occasion without hesitation when they feel inspired and challenged.
+Stress is like a pulse, if you have it you are alive.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
