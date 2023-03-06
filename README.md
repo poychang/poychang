@@ -1,5 +1,5 @@
-# Hello World 2023/03/04
+# Hello World 2023/03/06
 
-Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.
+If you're changing the world, you're working on important things. You're excited to get up in the morning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
