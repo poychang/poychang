@@ -1,5 +1,5 @@
-# Hello World 2023/03/07
+# Hello World 2023/03/08
 
-There's such a thin line between winning and losing.
+Vision without action is daydream. Action without vision is nightmare..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
