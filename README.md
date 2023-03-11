@@ -1,5 +1,5 @@
-# Hello World 2023/03/10
+# Hello World 2023/03/11
 
-One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.
+Some men see things as they are and say why.. I dream things that never were and say why not.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
