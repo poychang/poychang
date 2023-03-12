@@ -1,5 +1,5 @@
-# Hello World 2023/03/11
+# Hello World 2023/03/12
 
-Some men see things as they are and say why.. I dream things that never were and say why not.
+Winning is nice if you don't lose your integrity in the process.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
