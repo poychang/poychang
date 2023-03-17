@@ -1,5 +1,5 @@
-# Hello World 2023/03/16
+# Hello World 2023/03/17
 
-An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!
+I am an optimist. It does not seem too much use being anything else..
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
