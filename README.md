@@ -1,5 +1,5 @@
-# Hello World 2023/03/18
+# Hello World 2023/03/19
 
-If you like what you do, and you're lucky enough to be good at it, do it for that reason.
+Sustenance! Your health is always the best prescription.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
