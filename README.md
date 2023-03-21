@@ -1,5 +1,5 @@
-# Hello World 2023/03/20
+# Hello World 2023/03/21
 
-Your overnight success story is always a result of everything you have done in your life until that moment.
+A man can suffer to bring a group of people to success, not the other way.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
