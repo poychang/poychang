@@ -1,5 +1,5 @@
-# Hello World 2023/03/21
+# Hello World 2023/03/22
 
-A man can suffer to bring a group of people to success, not the other way.
+It is easy to sit up and take notice, What is difficult is getting up and taking action.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
