@@ -1,5 +1,5 @@
-# Hello World 2023/03/25
+# Hello World 2023/03/26
 
-Beyond a certain point there is no return. This point has to be reached.
+Positive anything is better than negative thinking.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
