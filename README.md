@@ -1,5 +1,5 @@
-# Hello World 2023/03/29
+# Hello World 2023/03/30
 
-Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of other's opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
+Don't be afraid of losing, be afraid of playing a game and not learning something.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
