@@ -1,5 +1,5 @@
-# Hello World 2023/03/30
+# Hello World 2023/03/31
 
-Don't be afraid of losing, be afraid of playing a game and not learning something.
+Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
