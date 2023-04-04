@@ -1,5 +1,5 @@
-# Hello World 2023/04/03
+# Hello World 2023/04/04
 
-I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.
+The determination to win is the better part of winning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
