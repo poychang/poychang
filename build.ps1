@@ -1,8 +1,8 @@
 function Get-Quote {
-    $targetUrl = "https://quotes.rest/qod?language=en"
+    $targetUrl = "https://v2.jokeapi.dev/joke/Any?type=single"
     $Headers = @{ 'Content-Type' = 'application/json'; }
     $Response = Invoke-WebRequest $targetUrl -SessionVariable 'Session' -Method 'GET' -Headers $Headers
-    Write-Output ($Response.Content | ConvertFrom-JSON).contents.quotes[0].quote
+    Write-Output ($Response.Content | ConvertFrom-JSON).contents.joke
 }
 
 $readme = @"
