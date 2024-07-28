@@ -1,5 +1,5 @@
-# Hello World 2024/07/27
+# Hello World 2024/07/28
 
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
