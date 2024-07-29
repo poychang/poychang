@@ -1,5 +1,5 @@
-# Hello World 2024/07/28
+# Hello World 2024/07/29
 
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
