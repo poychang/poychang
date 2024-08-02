@@ -1,5 +1,5 @@
-# Hello World 2024/08/01
+# Hello World 2024/08/02
 
-My parents raised me as an only child, which really annoyed my younger brother.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
