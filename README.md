@@ -1,6 +1,8 @@
-# Hello World 2024/08/03
+# Hello World 2024/08/04
 
-My grandfather says I'm too reliant on technology.
-I called him a hypocrite and unplugged his life support.
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
