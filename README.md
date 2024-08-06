@@ -1,6 +1,5 @@
-# Hello World 2024/08/05
+# Hello World 2024/08/06
 
-A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
