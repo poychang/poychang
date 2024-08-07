@@ -1,5 +1,5 @@
-# Hello World 2024/08/06
+# Hello World 2024/08/07
 
-I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
