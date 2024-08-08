@@ -1,5 +1,5 @@
-# Hello World 2024/08/07
+# Hello World 2024/08/08
 
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+If you're here for the yodeling lesson, please form an orderly orderly orderly queue.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
