@@ -1,5 +1,5 @@
-# Hello World 2024/08/09
+# Hello World 2024/08/10
 
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
