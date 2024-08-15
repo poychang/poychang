@@ -1,6 +1,5 @@
-# Hello World 2024/08/14
+# Hello World 2024/08/15
 
-My wife and I have reached the difficult decision that we do not want children.
-If anybody does, please just send me your contact details and we can drop them off tomorrow.
+I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
