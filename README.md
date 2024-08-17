@@ -1,5 +1,5 @@
-# Hello World 2024/08/16
+# Hello World 2024/08/17
 
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
