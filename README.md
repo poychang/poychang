@@ -1,5 +1,5 @@
-# Hello World 2024/08/17
+# Hello World 2024/08/18
 
-In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
+Debugging: Removing the needles from the haystack.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
