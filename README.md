@@ -1,5 +1,5 @@
-# Hello World 2024/08/26
+# Hello World 2024/08/27
 
-To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
+In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
