@@ -1,5 +1,6 @@
-# Hello World 2024/08/29
+# Hello World 2024/08/30
 
-To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
