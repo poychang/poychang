@@ -1,7 +1,7 @@
-# Hello World 2024/08/31
+# Hello World 2024/09/01
 
-Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing...
+I have these weird muscle spasms in my gluteus maximus.
+I figured out from my doctor that everything was alright:
+He said "Weird flex, butt okay."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
