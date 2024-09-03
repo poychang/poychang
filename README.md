@@ -1,11 +1,7 @@
-# Hello World 2024/09/02
+# Hello World 2024/09/03
 
-The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+I have these weird muscle spasms in my gluteus maximus.
+I figured out from my doctor that everything was alright:
+He said "Weird flex, butt okay."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
