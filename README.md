@@ -1,7 +1,6 @@
-# Hello World 2024/09/03
+# Hello World 2024/09/04
 
-I have these weird muscle spasms in my gluteus maximus.
-I figured out from my doctor that everything was alright:
-He said "Weird flex, butt okay."
+My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
