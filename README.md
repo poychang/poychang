@@ -1,6 +1,5 @@
-# Hello World 2024/09/04
+# Hello World 2024/09/05
 
-My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.
+I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
