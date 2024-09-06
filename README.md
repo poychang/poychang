@@ -1,5 +1,8 @@
-# Hello World 2024/09/05
+# Hello World 2024/09/06
 
-I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
+What does the MacBook have in common with Donald Trump?
+
+I would tell you....
+But I don't compare apples to oranges.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
