@@ -1,9 +1,5 @@
-# Hello World 2024/09/08
+# Hello World 2024/09/09
 
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
