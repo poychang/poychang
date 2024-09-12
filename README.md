@@ -1,5 +1,5 @@
-# Hello World 2024/09/11
+# Hello World 2024/09/12
 
-Dark humor is like food, not everyone gets it.
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
