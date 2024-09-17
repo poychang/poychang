@@ -1,5 +1,5 @@
-# Hello World 2024/09/16
+# Hello World 2024/09/17
 
-I hate double standards. Burn a body at a crematorium, you're "being a respectful friend." Do it at home and you're "destroying evidence."
+How do you make holy water? You freeze it and drill holes in it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
