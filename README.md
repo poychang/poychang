@@ -1,6 +1,5 @@
-# Hello World 2024/09/26
+# Hello World 2024/09/27
 
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
