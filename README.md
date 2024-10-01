@@ -1,5 +1,5 @@
-# Hello World 2024/09/30
+# Hello World 2024/10/01
 
-ASCII silly question, get a silly ANSI.
+My parents raised me as an only child, which really annoyed my younger brother.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
