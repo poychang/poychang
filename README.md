@@ -1,5 +1,5 @@
-# Hello World 2024/10/09
+# Hello World 2024/10/10
 
-Yo mama is so old, she knew Burger King while he was still a prince.
+My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
