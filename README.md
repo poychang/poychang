@@ -1,9 +1,5 @@
-# Hello World 2024/10/12
+# Hello World 2024/10/13
 
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
