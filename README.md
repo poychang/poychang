@@ -1,5 +1,6 @@
-# Hello World 2024/10/15
+# Hello World 2024/10/16
 
-How do you make holy water? You boil the hell out of it.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
