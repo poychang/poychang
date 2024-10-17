@@ -1,6 +1,6 @@
-# Hello World 2024/10/16
+# Hello World 2024/10/17
 
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
