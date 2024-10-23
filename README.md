@@ -1,5 +1,5 @@
-# Hello World 2024/10/22
+# Hello World 2024/10/23
 
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
