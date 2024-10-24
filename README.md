@@ -1,5 +1,5 @@
-# Hello World 2024/10/23
+# Hello World 2024/10/24
 
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+I'm reading a book about anti-gravity. It's impossible to put down!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
