@@ -1,5 +1,5 @@
-# Hello World 2024/11/07
+# Hello World 2024/11/08
 
-Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
+I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
