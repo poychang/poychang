@@ -1,5 +1,6 @@
-# Hello World 2024/11/08
+# Hello World 2024/11/09
 
-I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
