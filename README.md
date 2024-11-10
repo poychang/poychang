@@ -1,6 +1,5 @@
-# Hello World 2024/11/09
+# Hello World 2024/11/10
 
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
