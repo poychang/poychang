@@ -1,8 +1,6 @@
-# Hello World 2024/11/11
+# Hello World 2024/11/12
 
-What does the MacBook have in common with Donald Trump?
-
-I would tell you....
-But I don't compare apples to oranges.
+My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
