@@ -1,5 +1,6 @@
-# Hello World 2024/11/18
+# Hello World 2024/11/19
 
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
