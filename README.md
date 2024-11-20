@@ -1,6 +1,5 @@
-# Hello World 2024/11/19
+# Hello World 2024/11/20
 
-A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
