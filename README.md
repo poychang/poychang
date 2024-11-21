@@ -1,5 +1,5 @@
-# Hello World 2024/11/20
+# Hello World 2024/11/21
 
-// This line doesn't actually do anything, but the code stops working when I delete it.
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
