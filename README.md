@@ -1,5 +1,5 @@
-# Hello World 2024/11/21
+# Hello World 2024/11/22
 
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
