@@ -1,5 +1,5 @@
-# Hello World 2024/11/22
+# Hello World 2024/11/23
 
-Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
+In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
