@@ -1,5 +1,5 @@
-# Hello World 2024/11/23
+# Hello World 2024/11/24
 
-In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
+How do you make holy water? You freeze it and drill holes in it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
