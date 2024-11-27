@@ -1,5 +1,6 @@
-# Hello World 2024/11/26
+# Hello World 2024/11/27
 
-I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.
+Today, my son asked "Can I have a book mark?" and I burst into tears.
+11 years old and he still doesn't know my name is Brian.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
