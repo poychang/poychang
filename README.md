@@ -1,6 +1,5 @@
-# Hello World 2024/11/27
+# Hello World 2024/11/28
 
-Today, my son asked "Can I have a book mark?" and I burst into tears.
-11 years old and he still doesn't know my name is Brian.
+Your mama's so FAT she can't save files bigger than 4GB.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
