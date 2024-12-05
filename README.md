@@ -1,6 +1,5 @@
-# Hello World 2024/12/04
+# Hello World 2024/12/05
 
-A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
