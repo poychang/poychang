@@ -1,5 +1,9 @@
-# Hello World 2024/12/06
+# Hello World 2024/12/07
 
-Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
