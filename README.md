@@ -1,9 +1,5 @@
-# Hello World 2024/12/07
+# Hello World 2024/12/08
 
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
