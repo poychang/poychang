@@ -1,5 +1,5 @@
-# Hello World 2024/12/08
+# Hello World 2024/12/09
 
-I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
+My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
