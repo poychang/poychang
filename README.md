@@ -1,5 +1,5 @@
-# Hello World 2024/12/11
+# Hello World 2024/12/12
 
-I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.
+Schrödinger's cat walks into a bar and doesn't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
