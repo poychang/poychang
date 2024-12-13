@@ -1,5 +1,5 @@
-# Hello World 2024/12/12
+# Hello World 2024/12/13
 
-Schrödinger's cat walks into a bar and doesn't.
+If you're here for the yodeling lesson, please form an orderly orderly orderly queue.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
