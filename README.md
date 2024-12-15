@@ -1,5 +1,7 @@
-# Hello World 2024/12/14
+# Hello World 2024/12/15
 
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+I have these weird muscle spasms in my gluteus maximus.
+I figured out from my doctor that everything was alright:
+He said "Weird flex, butt okay."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
