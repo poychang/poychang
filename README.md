@@ -1,7 +1,5 @@
-# Hello World 2024/12/15
+# Hello World 2024/12/16
 
-I have these weird muscle spasms in my gluteus maximus.
-I figured out from my doctor that everything was alright:
-He said "Weird flex, butt okay."
+Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
