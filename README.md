@@ -1,5 +1,6 @@
-# Hello World 2024/12/23
+# Hello World 2024/12/24
 
-In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
