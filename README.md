@@ -1,5 +1,6 @@
-# Hello World 2024/12/25
+# Hello World 2024/12/26
 
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+Today, my son asked "Can I have a book mark?" and I burst into tears.
+11 years old and he still doesn't know my name is Brian.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
