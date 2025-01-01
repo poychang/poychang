@@ -1,9 +1,5 @@
-# Hello World 2024/12/31
+# Hello World 2025/01/01
 
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
