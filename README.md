@@ -1,5 +1,5 @@
-# Hello World 2025/01/01
+# Hello World 2025/01/02
 
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
