@@ -1,5 +1,5 @@
-# Hello World 2025/01/06
+# Hello World 2025/01/07
 
-Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in.
+How do you make holy water? You boil the hell out of it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
