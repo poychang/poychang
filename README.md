@@ -1,5 +1,7 @@
-# Hello World 2025/01/10
+# Hello World 2025/01/11
 
-Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in.
+Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
