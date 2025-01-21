@@ -1,5 +1,5 @@
-# Hello World 2025/01/20
+# Hello World 2025/01/21
 
-Your mama's so FAT she can't save files bigger than 4GB.
+A perfectionist walked into a bar... apparently, the bar was not set high enough.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
