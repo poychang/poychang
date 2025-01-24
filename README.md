@@ -1,8 +1,9 @@
-# Hello World 2025/01/23
+# Hello World 2025/01/24
 
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
