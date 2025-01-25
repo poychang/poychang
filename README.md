@@ -1,9 +1,5 @@
-# Hello World 2025/01/24
+# Hello World 2025/01/25
 
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+I have a fish that can breakdance! Only for 20 seconds though, and only once.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
