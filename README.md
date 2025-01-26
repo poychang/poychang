@@ -1,5 +1,5 @@
-# Hello World 2025/01/25
+# Hello World 2025/01/26
 
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+If you're here for the yodeling lesson, please form an orderly orderly orderly queue.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
