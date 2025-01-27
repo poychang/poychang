@@ -1,5 +1,6 @@
-# Hello World 2025/01/26
+# Hello World 2025/01/27
 
-If you're here for the yodeling lesson, please form an orderly orderly orderly queue.
+My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
