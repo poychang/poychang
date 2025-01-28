@@ -1,6 +1,6 @@
-# Hello World 2025/01/27
+# Hello World 2025/01/28
 
-My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
