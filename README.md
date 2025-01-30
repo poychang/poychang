@@ -1,8 +1,5 @@
-# Hello World 2025/01/29
+# Hello World 2025/01/30
 
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+A perfectionist walked into a bar... apparently, the bar was not set high enough.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
