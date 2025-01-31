@@ -1,5 +1,5 @@
-# Hello World 2025/01/30
+# Hello World 2025/01/31
 
-A perfectionist walked into a bar... apparently, the bar was not set high enough.
+Dark humor is like food, not everyone gets it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
