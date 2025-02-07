@@ -1,8 +1,5 @@
-# Hello World 2025/02/06
+# Hello World 2025/02/07
 
-What does the MacBook have in common with Donald Trump?
-
-I would tell you....
-But I don't compare apples to oranges.
+A perfectionist walked into a bar... apparently, the bar was not set high enough.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
