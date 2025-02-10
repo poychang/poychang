@@ -1,7 +1,5 @@
-# Hello World 2025/02/09
+# Hello World 2025/02/10
 
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+I have a fish that can breakdance! Only for 20 seconds though, and only once.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
