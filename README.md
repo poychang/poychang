@@ -1,8 +1,5 @@
-# Hello World 2025/02/13
+# Hello World 2025/02/14
 
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
