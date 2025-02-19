@@ -1,8 +1,5 @@
-# Hello World 2025/02/18
+# Hello World 2025/02/19
 
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
