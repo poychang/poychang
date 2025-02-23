@@ -1,6 +1,5 @@
-# Hello World 2025/02/22
+# Hello World 2025/02/23
 
-A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
