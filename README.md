@@ -1,5 +1,5 @@
-# Hello World 2025/02/24
+# Hello World 2025/02/25
 
-To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
