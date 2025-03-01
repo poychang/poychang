@@ -1,5 +1,5 @@
-# Hello World 2025/02/28
+# Hello World 2025/03/01
 
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+Your mama's so FAT she can't save files bigger than 4GB.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
