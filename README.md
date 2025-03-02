@@ -1,5 +1,7 @@
-# Hello World 2025/03/01
+# Hello World 2025/03/02
 
-Your mama's so FAT she can't save files bigger than 4GB.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
