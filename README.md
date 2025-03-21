@@ -1,5 +1,7 @@
-# Hello World 2025/03/20
+# Hello World 2025/03/21
 
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
