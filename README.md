@@ -1,7 +1,5 @@
-# Hello World 2025/03/21
+# Hello World 2025/03/22
 
-Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing...
+If you're here for the yodeling lesson, please form an orderly orderly orderly queue.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
