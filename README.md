@@ -1,5 +1,5 @@
-# Hello World 2025/03/22
+# Hello World 2025/03/23
 
-If you're here for the yodeling lesson, please form an orderly orderly orderly queue.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
