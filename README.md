@@ -1,5 +1,7 @@
-# Hello World 2025/03/23
+# Hello World 2025/03/24
 
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+I have these weird muscle spasms in my gluteus maximus.
+I figured out from my doctor that everything was alright:
+He said "Weird flex, butt okay."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
