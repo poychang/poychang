@@ -1,7 +1,5 @@
-# Hello World 2025/03/24
+# Hello World 2025/03/25
 
-I have these weird muscle spasms in my gluteus maximus.
-I figured out from my doctor that everything was alright:
-He said "Weird flex, butt okay."
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
