@@ -1,5 +1,6 @@
-# Hello World 2025/03/27
+# Hello World 2025/03/28
 
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
