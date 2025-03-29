@@ -1,6 +1,5 @@
-# Hello World 2025/03/28
+# Hello World 2025/03/29
 
-My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
