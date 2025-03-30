@@ -1,5 +1,9 @@
-# Hello World 2025/03/29
+# Hello World 2025/03/30
 
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
