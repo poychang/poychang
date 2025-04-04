@@ -1,5 +1,5 @@
-# Hello World 2025/04/03
+# Hello World 2025/04/04
 
-My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
