@@ -1,5 +1,5 @@
-# Hello World 2025/04/10
+# Hello World 2025/04/11
 
-My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
+Hey girl are you a school? Because I want to shoot some kids up inside of you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
