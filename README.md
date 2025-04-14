@@ -1,5 +1,5 @@
-# Hello World 2025/04/13
+# Hello World 2025/04/14
 
-Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.
+Dark humor is like food, not everyone gets it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
