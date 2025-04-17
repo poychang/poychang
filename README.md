@@ -1,7 +1,6 @@
-# Hello World 2025/04/16
+# Hello World 2025/04/17
 
-Doctor: "I have some news about your baby."
-Parents: "Don't tell us the gender, we want to keep it a surprise."
-Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
+Today, my son asked "Can I have a book mark?" and I burst into tears.
+11 years old and he still doesn't know my name is Brian.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
