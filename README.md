@@ -1,6 +1,5 @@
-# Hello World 2025/04/17
+# Hello World 2025/04/18
 
-Today, my son asked "Can I have a book mark?" and I burst into tears.
-11 years old and he still doesn't know my name is Brian.
+I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
