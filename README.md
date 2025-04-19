@@ -1,5 +1,8 @@
-# Hello World 2025/04/18
+# Hello World 2025/04/19
 
-I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
+Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
