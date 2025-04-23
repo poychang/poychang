@@ -1,5 +1,5 @@
-# Hello World 2025/04/22
+# Hello World 2025/04/23
 
-Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
+Yo mama is so old, she knew Burger King while he was still a prince.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
