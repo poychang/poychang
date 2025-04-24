@@ -1,5 +1,7 @@
-# Hello World 2025/04/23
+# Hello World 2025/04/24
 
-Yo mama is so old, she knew Burger King while he was still a prince.
+A horse walks into a bar.
+"Hey", the Bartender says.
+"Sure", the horse replies.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
