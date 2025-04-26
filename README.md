@@ -1,5 +1,5 @@
-# Hello World 2025/04/25
+# Hello World 2025/04/26
 
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
