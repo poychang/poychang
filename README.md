@@ -1,8 +1,5 @@
-# Hello World 2025/04/27
+# Hello World 2025/04/28
 
-Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
