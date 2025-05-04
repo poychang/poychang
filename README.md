@@ -1,5 +1,5 @@
-# Hello World 2025/05/03
+# Hello World 2025/05/04
 
-I didn't vaccinate my 10 kids and the one that survived is fine!
+How do you make holy water? You freeze it and drill holes in it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
