@@ -1,5 +1,5 @@
-# Hello World 2025/05/04
+# Hello World 2025/05/05
 
-How do you make holy water? You freeze it and drill holes in it.
+I have a fish that can breakdance! Only for 20 seconds though, and only once.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
