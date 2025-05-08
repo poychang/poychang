@@ -1,5 +1,6 @@
-# Hello World 2025/05/07
+# Hello World 2025/05/08
 
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
