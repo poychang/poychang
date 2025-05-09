@@ -1,6 +1,5 @@
-# Hello World 2025/05/08
+# Hello World 2025/05/09
 
-A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"
+I went to the zoo the other day. There was only a dog in it - it was a shihtzu.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
