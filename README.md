@@ -1,8 +1,5 @@
-# Hello World 2025/05/10
+# Hello World 2025/05/11
 
-Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
