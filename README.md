@@ -1,5 +1,5 @@
-# Hello World 2025/05/11
+# Hello World 2025/05/12
 
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+I didn't vaccinate my 10 kids and the one that survived is fine!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
