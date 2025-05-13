@@ -1,5 +1,5 @@
-# Hello World 2025/05/12
+# Hello World 2025/05/13
 
-I didn't vaccinate my 10 kids and the one that survived is fine!
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
