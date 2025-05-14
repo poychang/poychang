@@ -1,5 +1,5 @@
-# Hello World 2025/05/13
+# Hello World 2025/05/14
 
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+I have a fish that can breakdance! Only for 20 seconds though, and only once.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
