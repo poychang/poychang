@@ -1,5 +1,9 @@
-# Hello World 2025/05/14
+# Hello World 2025/05/15
 
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
