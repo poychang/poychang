@@ -1,7 +1,5 @@
-# Hello World 2025/06/01
+# Hello World 2025/06/02
 
-My little daughter came to me all excited, saying "Daddy! Daddy! Guess how old I'll be in June!"
-"Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
-It's now three hours later, police have joined in and she still won't say where she got them.
+My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
