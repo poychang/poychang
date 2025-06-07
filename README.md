@@ -1,6 +1,7 @@
-# Hello World 2025/06/06
+# Hello World 2025/06/07
 
-Nowadays people are so sensitive, you can't even say "black paint" anymore.
-Instead, you have to say "Jamal, please paint the fence".
+I have these weird muscle spasms in my gluteus maximus.
+I figured out from my doctor that everything was alright:
+He said "Weird flex, butt okay."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
