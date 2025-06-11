@@ -1,5 +1,5 @@
-# Hello World 2025/06/10
+# Hello World 2025/06/11
 
-My parents raised me as an only child, which really annoyed my younger brother.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
