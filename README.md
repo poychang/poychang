@@ -1,5 +1,5 @@
-# Hello World 2025/06/11
+# Hello World 2025/06/12
 
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
