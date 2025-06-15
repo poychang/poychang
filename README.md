@@ -1,5 +1,5 @@
-# Hello World 2025/06/14
+# Hello World 2025/06/15
 
-I didn't vaccinate my 10 kids and the one that survived is fine!
+I have a fish that can breakdance! Only for 20 seconds though, and only once.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
