@@ -1,5 +1,5 @@
-# Hello World 2025/06/16
+# Hello World 2025/06/17
 
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+Yo mama is so old, she knew Burger King while he was still a prince.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
