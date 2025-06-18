@@ -1,5 +1,5 @@
-# Hello World 2025/06/17
+# Hello World 2025/06/18
 
-Yo mama is so old, she knew Burger King while he was still a prince.
+Never date a baker. They're too kneady.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
