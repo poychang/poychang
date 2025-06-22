@@ -1,5 +1,5 @@
-# Hello World 2025/06/21
+# Hello World 2025/06/22
 
-Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven.
+If you're here for the yodeling lesson, please form an orderly orderly orderly queue.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
