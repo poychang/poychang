@@ -1,5 +1,5 @@
-# Hello World 2025/06/23
+# Hello World 2025/06/24
 
-I went to the zoo the other day. There was only a dog in it - it was a shihtzu.
+In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
