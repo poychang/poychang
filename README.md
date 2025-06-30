@@ -1,6 +1,5 @@
-# Hello World 2025/06/29
+# Hello World 2025/06/30
 
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+I didn't vaccinate my 10 kids and the one that survived is fine!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
