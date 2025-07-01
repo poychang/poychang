@@ -1,5 +1,6 @@
-# Hello World 2025/06/30
+# Hello World 2025/07/01
 
-I didn't vaccinate my 10 kids and the one that survived is fine!
+A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
