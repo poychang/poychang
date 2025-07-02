@@ -1,6 +1,5 @@
-# Hello World 2025/07/01
+# Hello World 2025/07/02
 
-A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"
+How do you make holy water? You freeze it and drill holes in it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
