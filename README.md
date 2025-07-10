@@ -1,9 +1,5 @@
-# Hello World 2025/07/09
+# Hello World 2025/07/10
 
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+The generation of random numbers is too important to be left to chance.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
