@@ -1,5 +1,5 @@
-# Hello World 2025/07/10
+# Hello World 2025/07/11
 
-The generation of random numbers is too important to be left to chance.
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
