@@ -1,5 +1,5 @@
-# Hello World 2025/07/16
+# Hello World 2025/07/17
 
-Dark humor is like food, not everyone gets it.
+How do you make holy water? You boil the hell out of it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
