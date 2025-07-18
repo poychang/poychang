@@ -1,5 +1,6 @@
-# Hello World 2025/07/17
+# Hello World 2025/07/18
 
-How do you make holy water? You boil the hell out of it.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
