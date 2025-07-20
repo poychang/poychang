@@ -1,7 +1,5 @@
-# Hello World 2025/07/19
+# Hello World 2025/07/20
 
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
