@@ -1,5 +1,7 @@
-# Hello World 2025/07/20
+# Hello World 2025/07/21
 
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
