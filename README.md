@@ -1,7 +1,5 @@
-# Hello World 2025/07/21
+# Hello World 2025/07/22
 
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
