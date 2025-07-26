@@ -1,6 +1,5 @@
-# Hello World 2025/07/25
+# Hello World 2025/07/26
 
-My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.
+I went to the zoo the other day. There was only a dog in it - it was a shihtzu.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
