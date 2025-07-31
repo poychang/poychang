@@ -1,9 +1,5 @@
-# Hello World 2025/07/30
+# Hello World 2025/07/31
 
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
