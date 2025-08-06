@@ -1,7 +1,5 @@
-# Hello World 2025/08/05
+# Hello World 2025/08/06
 
-Doctor: "I have some news about your baby."
-Parents: "Don't tell us the gender, we want to keep it a surprise."
-Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
