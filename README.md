@@ -1,7 +1,5 @@
-# Hello World 2025/08/07
+# Hello World 2025/08/08
 
-Two reasons I don't give money to homeless people.
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol.
+Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
