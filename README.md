@@ -1,5 +1,5 @@
-# Hello World 2025/08/08
+# Hello World 2025/08/09
 
-Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
