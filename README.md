@@ -1,5 +1,5 @@
-# Hello World 2025/08/09
+# Hello World 2025/08/10
 
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
