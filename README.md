@@ -1,5 +1,5 @@
-# Hello World 2025/08/11
+# Hello World 2025/08/12
 
-I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!
+The generation of random numbers is too important to be left to chance.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
