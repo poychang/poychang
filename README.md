@@ -1,5 +1,5 @@
-# Hello World 2025/08/14
+# Hello World 2025/08/15
 
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
