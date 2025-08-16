@@ -1,5 +1,5 @@
-# Hello World 2025/08/15
+# Hello World 2025/08/16
 
-To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
