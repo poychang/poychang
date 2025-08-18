@@ -1,5 +1,6 @@
-# Hello World 2025/08/17
+# Hello World 2025/08/18
 
-In Soviet Russia, gay sex gets you arrested. In America, getting arrested gets you gay sex.
+Nowadays people are so sensitive, you can't even say "black paint" anymore.
+Instead, you have to say "Jamal, please paint the fence".
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
