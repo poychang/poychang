@@ -1,6 +1,5 @@
-# Hello World 2025/08/18
+# Hello World 2025/08/19
 
-Nowadays people are so sensitive, you can't even say "black paint" anymore.
-Instead, you have to say "Jamal, please paint the fence".
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
