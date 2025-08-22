@@ -1,5 +1,5 @@
-# Hello World 2025/08/21
+# Hello World 2025/08/22
 
-Hey girl are you a school? Because I want to shoot some kids up inside of you.
+I'd tell you a joke about NAT but I would have to translate.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
