@@ -1,5 +1,8 @@
-# Hello World 2025/08/22
+# Hello World 2025/08/23
 
-I'd tell you a joke about NAT but I would have to translate.
+Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
