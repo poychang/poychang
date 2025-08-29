@@ -1,5 +1,6 @@
-# Hello World 2025/08/28
+# Hello World 2025/08/29
 
-A perfectionist walked into a bar... apparently, the bar was not set high enough.
+A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
