@@ -1,6 +1,5 @@
-# Hello World 2025/08/29
+# Hello World 2025/08/30
 
-A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"
+I'd tell you a joke about NAT but I would have to translate.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
