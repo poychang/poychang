@@ -1,5 +1,6 @@
-# Hello World 2025/08/30
+# Hello World 2025/08/31
 
-I'd tell you a joke about NAT but I would have to translate.
+My grandfather says I'm too reliant on technology.
+I called him a hypocrite and unplugged his life support.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
