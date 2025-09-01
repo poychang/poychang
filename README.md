@@ -1,6 +1,5 @@
-# Hello World 2025/08/31
+# Hello World 2025/09/01
 
-My grandfather says I'm too reliant on technology.
-I called him a hypocrite and unplugged his life support.
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
