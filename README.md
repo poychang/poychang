@@ -1,5 +1,8 @@
-# Hello World 2025/09/05
+# Hello World 2025/09/06
 
-I was reading a great book about an immortal dog the other day. It was impossible to put down.
+What does the MacBook have in common with Donald Trump?
+
+I would tell you....
+But I don't compare apples to oranges.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
