@@ -1,5 +1,5 @@
-# Hello World 2025/09/10
+# Hello World 2025/09/11
 
-Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.
+I was struggling to figure out how lightning works, but then it struck me.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
