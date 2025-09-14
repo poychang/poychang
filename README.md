@@ -1,5 +1,5 @@
-# Hello World 2025/09/13
+# Hello World 2025/09/14
 
-Debugging: Removing the needles from the haystack.
+Dark humor is like food, not everyone gets it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
