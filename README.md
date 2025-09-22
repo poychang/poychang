@@ -1,5 +1,5 @@
-# Hello World 2025/09/21
+# Hello World 2025/09/22
 
-If you're here for the yodeling lesson, please form an orderly orderly orderly queue.
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
