@@ -1,5 +1,5 @@
-# Hello World 2025/09/24
+# Hello World 2025/09/25
 
-A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer.  We don't worry about warnings; we only worry about errors."
+To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
