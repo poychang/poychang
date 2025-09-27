@@ -1,9 +1,7 @@
-# Hello World 2025/09/26
+# Hello World 2025/09/27
 
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
