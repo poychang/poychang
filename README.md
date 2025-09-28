@@ -1,7 +1,5 @@
-# Hello World 2025/09/27
+# Hello World 2025/09/28
 
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
