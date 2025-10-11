@@ -1,5 +1,5 @@
-# Hello World 2025/10/10
+# Hello World 2025/10/11
 
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
