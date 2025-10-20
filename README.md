@@ -1,5 +1,7 @@
-# Hello World 2025/10/19
+# Hello World 2025/10/20
 
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
