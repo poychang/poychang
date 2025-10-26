@@ -1,5 +1,6 @@
-# Hello World 2025/10/25
+# Hello World 2025/10/26
 
-How do you make holy water? You freeze it and drill holes in it.
+Nowadays people are so sensitive, you can't even say "black paint" anymore.
+Instead, you have to say "Jamal, please paint the fence".
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
