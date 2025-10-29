@@ -1,5 +1,5 @@
-# Hello World 2025/10/28
+# Hello World 2025/10/29
 
-I went to the zoo the other day. There was only a dog in it - it was a shihtzu.
+Schrödinger's cat walks into a bar and doesn't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
