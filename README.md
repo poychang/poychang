@@ -1,5 +1,7 @@
-# Hello World 2025/10/29
+# Hello World 2025/10/30
 
-Schrödinger's cat walks into a bar and doesn't.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
