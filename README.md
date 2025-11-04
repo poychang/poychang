@@ -1,5 +1,5 @@
-# Hello World 2025/11/03
+# Hello World 2025/11/04
 
-Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
