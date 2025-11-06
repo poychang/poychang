@@ -1,5 +1,7 @@
-# Hello World 2025/11/05
+# Hello World 2025/11/06
 
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
