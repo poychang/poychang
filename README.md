@@ -1,5 +1,9 @@
-# Hello World 2025/11/09
+# Hello World 2025/11/10
 
-Debugging: Removing the needles from the haystack.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
