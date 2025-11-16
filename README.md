@@ -1,6 +1,5 @@
-# Hello World 2025/11/15
+# Hello World 2025/11/16
 
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
