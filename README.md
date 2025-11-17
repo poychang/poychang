@@ -1,5 +1,8 @@
-# Hello World 2025/11/16
+# Hello World 2025/11/17
 
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
