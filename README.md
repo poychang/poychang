@@ -1,5 +1,5 @@
-# Hello World 2025/11/18
+# Hello World 2025/11/19
 
-I was going to tell a dead baby joke. But I decided to abort.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
