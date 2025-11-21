@@ -1,5 +1,6 @@
-# Hello World 2025/11/20
+# Hello World 2025/11/21
 
-Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".
+A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
