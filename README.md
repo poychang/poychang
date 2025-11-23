@@ -1,5 +1,5 @@
-# Hello World 2025/11/22
+# Hello World 2025/11/23
 
-I didn't vaccinate my 10 kids and the one that survived is fine!
+My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
