@@ -1,5 +1,5 @@
-# Hello World 2025/11/24
+# Hello World 2025/11/25
 
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+I went to the zoo the other day. There was only a dog in it - it was a shihtzu.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
