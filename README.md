@@ -1,5 +1,5 @@
-# Hello World 2025/11/25
+# Hello World 2025/11/26
 
-I went to the zoo the other day. There was only a dog in it - it was a shihtzu.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
