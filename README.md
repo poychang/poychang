@@ -1,5 +1,5 @@
-# Hello World 2025/11/29
+# Hello World 2025/11/30
 
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
