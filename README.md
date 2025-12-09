@@ -1,5 +1,5 @@
-# Hello World 2025/12/08
+# Hello World 2025/12/09
 
-Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.
+How do you make holy water? You freeze it and drill holes in it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
