@@ -1,6 +1,5 @@
-# Hello World 2025/12/10
+# Hello World 2025/12/11
 
-A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
