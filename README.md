@@ -1,5 +1,7 @@
-# Hello World 2025/12/11
+# Hello World 2025/12/12
 
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
