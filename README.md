@@ -1,7 +1,7 @@
-# Hello World 2025/12/12
+# Hello World 2025/12/13
 
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+A horse walks into a bar.
+"Hey", the Bartender says.
+"Sure", the horse replies.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
