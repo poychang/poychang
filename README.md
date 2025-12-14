@@ -1,7 +1,6 @@
-# Hello World 2025/12/13
+# Hello World 2025/12/14
 
-A horse walks into a bar.
-"Hey", the Bartender says.
-"Sure", the horse replies.
+A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
