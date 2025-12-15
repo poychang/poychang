@@ -1,6 +1,5 @@
-# Hello World 2025/12/14
+# Hello World 2025/12/15
 
-A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"
+I was struggling to figure out how lightning works, but then it struck me.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
