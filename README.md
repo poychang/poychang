@@ -1,5 +1,5 @@
-# Hello World 2025/12/16
+# Hello World 2025/12/17
 
-Never date a baker. They're too kneady.
+Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
