@@ -1,8 +1,5 @@
-# Hello World 2025/12/18
+# Hello World 2025/12/19
 
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+I went to the zoo the other day. There was only a dog in it - it was a shihtzu.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
