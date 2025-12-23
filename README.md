@@ -1,9 +1,5 @@
-# Hello World 2025/12/22
+# Hello World 2025/12/23
 
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
