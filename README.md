@@ -1,5 +1,5 @@
-# Hello World 2025/12/23
+# Hello World 2025/12/24
 
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer.  We don't worry about warnings; we only worry about errors."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
