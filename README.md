@@ -1,5 +1,8 @@
-# Hello World 2025/12/31
+# Hello World 2026/01/01
 
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
