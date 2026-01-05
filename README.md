@@ -1,5 +1,5 @@
-# Hello World 2026/01/04
+# Hello World 2026/01/05
 
-How do you make holy water? You boil the hell out of it.
+I hate double standards. Burn a body at a crematorium, you're "being a respectful friend." Do it at home and you're "destroying evidence."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
