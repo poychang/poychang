@@ -1,5 +1,5 @@
-# Hello World 2026/01/05
+# Hello World 2026/01/06
 
-I hate double standards. Burn a body at a crematorium, you're "being a respectful friend." Do it at home and you're "destroying evidence."
+My parents raised me as an only child, which really annoyed my younger brother.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
