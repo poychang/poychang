@@ -1,5 +1,5 @@
-# Hello World 2026/01/06
+# Hello World 2026/01/07
 
-My parents raised me as an only child, which really annoyed my younger brother.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
