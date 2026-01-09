@@ -1,5 +1,5 @@
-# Hello World 2026/01/08
+# Hello World 2026/01/09
 
-Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in.
+I was going to tell a dead baby joke. But I decided to abort.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
