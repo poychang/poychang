@@ -1,6 +1,5 @@
-# Hello World 2026/01/10
+# Hello World 2026/01/11
 
-My grandfather says I'm too reliant on technology.
-I called him a hypocrite and unplugged his life support.
+My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
