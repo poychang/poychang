@@ -1,5 +1,6 @@
-# Hello World 2026/01/11
+# Hello World 2026/01/12
 
-My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
+My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
