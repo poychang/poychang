@@ -1,6 +1,5 @@
-# Hello World 2026/01/12
+# Hello World 2026/01/13
 
-My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.
+A perfectionist walked into a bar... apparently, the bar was not set high enough.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
