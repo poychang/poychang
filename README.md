@@ -1,5 +1,8 @@
-# Hello World 2026/01/15
+# Hello World 2026/01/16
 
-ASCII silly question, get a silly ANSI.
+What does the MacBook have in common with Donald Trump?
+
+I would tell you....
+But I don't compare apples to oranges.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
