@@ -1,8 +1,5 @@
-# Hello World 2026/01/16
+# Hello World 2026/01/17
 
-What does the MacBook have in common with Donald Trump?
-
-I would tell you....
-But I don't compare apples to oranges.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
