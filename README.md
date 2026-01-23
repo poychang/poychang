@@ -1,6 +1,5 @@
-# Hello World 2026/01/22
+# Hello World 2026/01/23
 
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
