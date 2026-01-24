@@ -1,5 +1,5 @@
-# Hello World 2026/01/23
+# Hello World 2026/01/24
 
-I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.
+Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
