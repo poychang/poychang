@@ -1,8 +1,5 @@
-# Hello World 2026/01/26
+# Hello World 2026/01/27
 
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+I have a fish that can breakdance! Only for 20 seconds though, and only once.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
