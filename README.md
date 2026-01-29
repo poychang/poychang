@@ -1,5 +1,5 @@
-# Hello World 2026/01/28
+# Hello World 2026/01/29
 
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
