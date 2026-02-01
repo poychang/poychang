@@ -1,5 +1,5 @@
-# Hello World 2026/01/31
+# Hello World 2026/02/01
 
-Schrödinger's cat walks into a bar and doesn't.
+I was going to tell a dead baby joke. But I decided to abort.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
