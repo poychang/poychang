@@ -1,5 +1,6 @@
-# Hello World 2026/02/04
+# Hello World 2026/02/05
 
-Yo mama is so old, she knew Burger King while he was still a prince.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
