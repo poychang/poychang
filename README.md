@@ -1,6 +1,6 @@
-# Hello World 2026/02/05
+# Hello World 2026/02/06
 
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
