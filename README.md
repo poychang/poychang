@@ -1,5 +1,5 @@
-# Hello World 2026/02/09
+# Hello World 2026/02/10
 
-Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
