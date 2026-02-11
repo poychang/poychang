@@ -1,5 +1,5 @@
-# Hello World 2026/02/10
+# Hello World 2026/02/11
 
-I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
