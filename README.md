@@ -1,5 +1,6 @@
-# Hello World 2026/02/13
+# Hello World 2026/02/14
 
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+My grandfather says I'm too reliant on technology.
+I called him a hypocrite and unplugged his life support.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
