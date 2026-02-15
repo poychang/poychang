@@ -1,6 +1,5 @@
-# Hello World 2026/02/14
+# Hello World 2026/02/15
 
-My grandfather says I'm too reliant on technology.
-I called him a hypocrite and unplugged his life support.
+Hey girl are you a school? Because I want to shoot some kids up inside of you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
