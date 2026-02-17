@@ -1,7 +1,5 @@
-# Hello World 2026/02/16
+# Hello World 2026/02/17
 
-My little daughter came to me all excited, saying "Daddy! Daddy! Guess how old I'll be in June!"
-"Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
-It's now three hours later, police have joined in and she still won't say where she got them.
+Dark humor is like food, not everyone gets it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
