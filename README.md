@@ -1,5 +1,5 @@
-# Hello World 2026/02/20
+# Hello World 2026/02/21
 
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
