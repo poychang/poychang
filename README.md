@@ -1,5 +1,5 @@
-# Hello World 2026/02/23
+# Hello World 2026/02/24
 
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+I went to the zoo the other day. There was only a dog in it - it was a shihtzu.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
