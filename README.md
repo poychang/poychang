@@ -1,5 +1,5 @@
-# Hello World 2026/02/28
+# Hello World 2026/03/01
 
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+I was going to tell a dead baby joke. But I decided to abort.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
