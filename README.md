@@ -1,6 +1,5 @@
-# Hello World 2026/03/02
+# Hello World 2026/03/03
 
-Nowadays people are so sensitive, you can't even say "black paint" anymore.
-Instead, you have to say "Jamal, please paint the fence".
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
