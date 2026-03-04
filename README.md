@@ -1,5 +1,5 @@
-# Hello World 2026/03/03
+# Hello World 2026/03/04
 
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+I was going to tell a dead baby joke. But I decided to abort.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
