@@ -1,5 +1,5 @@
-# Hello World 2026/03/04
+# Hello World 2026/03/05
 
-I was going to tell a dead baby joke. But I decided to abort.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
