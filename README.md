@@ -1,5 +1,5 @@
-# Hello World 2026/03/05
+# Hello World 2026/03/06
 
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
