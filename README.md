@@ -1,5 +1,5 @@
-# Hello World 2026/03/07
+# Hello World 2026/03/08
 
-How do you make holy water? You boil the hell out of it.
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
