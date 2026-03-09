@@ -1,5 +1,5 @@
-# Hello World 2026/03/08
+# Hello World 2026/03/09
 
-Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
+I have a joke about trickle down economics, but 99% of you will never get it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
