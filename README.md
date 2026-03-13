@@ -1,8 +1,5 @@
-# Hello World 2026/03/12
+# Hello World 2026/03/13
 
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
