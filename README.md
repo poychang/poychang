@@ -1,5 +1,8 @@
-# Hello World 2026/03/16
+# Hello World 2026/03/17
 
-How do you make holy water? You freeze it and drill holes in it.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
