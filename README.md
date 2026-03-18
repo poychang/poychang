@@ -1,8 +1,5 @@
-# Hello World 2026/03/17
+# Hello World 2026/03/18
 
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+"We messed up the keming again guys."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
