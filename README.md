@@ -1,6 +1,8 @@
-# Hello World 2026/03/29
+# Hello World 2026/03/30
 
-My grandfather says I'm too reliant on technology.
-I called him a hypocrite and unplugged his life support.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
