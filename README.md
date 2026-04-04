@@ -1,6 +1,10 @@
-# Hello World 2026/04/03
+# Hello World 2026/04/04
 
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
