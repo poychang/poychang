@@ -1,5 +1,8 @@
-# Hello World 2026/04/07
+# Hello World 2026/04/08
 
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
