@@ -1,5 +1,8 @@
-# Hello World 2026/04/09
+# Hello World 2026/04/10
 
-My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
+What does the MacBook have in common with Donald Trump?
+
+I would tell you....
+But I don't compare apples to oranges.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
