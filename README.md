@@ -1,5 +1,8 @@
-# Hello World 2026/04/21
+# Hello World 2026/04/22
 
-The generation of random numbers is too important to be left to chance.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
