@@ -1,5 +1,6 @@
-# Hello World 2026/04/24
+# Hello World 2026/04/25
 
-My husband and I were happy for 20 years. And then we met.
+Nowadays people are so sensitive, you can't even say "black paint" anymore.
+Instead, you have to say "Jamal, please paint the fence".
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
