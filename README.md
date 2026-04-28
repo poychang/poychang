@@ -1,5 +1,5 @@
-# Hello World 2026/04/27
+# Hello World 2026/04/28
 
-My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
