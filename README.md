@@ -1,5 +1,5 @@
-# Hello World 2026/04/28
+# Hello World 2026/04/29
 
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
