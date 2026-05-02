@@ -1,5 +1,8 @@
-# Hello World 2026/05/01
+# Hello World 2026/05/02
 
-I'd tell you a joke about NAT but I would have to translate.
+What does the MacBook have in common with Donald Trump?
+
+I would tell you....
+But I don't compare apples to oranges.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
