@@ -1,6 +1,5 @@
-# Hello World 2026/05/03
+# Hello World 2026/05/04
 
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+ASCII silly question, get a silly ANSI.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
