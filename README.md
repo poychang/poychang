@@ -1,5 +1,5 @@
-# Hello World 2026/05/05
+# Hello World 2026/05/06
 
-Me and my Jewish friend were eating lunch and I farted. He got mad so I said "cmon man a little gas never killed anyone".
+Schrödinger's cat walks into a bar and doesn't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
