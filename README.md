@@ -1,5 +1,5 @@
-# Hello World 2026/05/07
+# Hello World 2026/05/08
 
-I was going to tell a dead baby joke. But I decided to abort.
+Hey girl are you a school? Because I want to shoot some kids up inside of you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
