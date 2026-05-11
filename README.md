@@ -1,7 +1,5 @@
-# Hello World 2026/05/10
+# Hello World 2026/05/11
 
-Doctor: "I have some news about your baby."
-Parents: "Don't tell us the gender, we want to keep it a surprise."
-Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
