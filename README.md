@@ -1,6 +1,5 @@
-# Hello World 2026/05/12
+# Hello World 2026/05/13
 
-A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"
+Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
