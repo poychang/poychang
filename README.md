@@ -1,6 +1,5 @@
-# Hello World 2026/05/15
+# Hello World 2026/05/16
 
-A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"
+I'm reading a book about anti-gravity. It's impossible to put down!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
