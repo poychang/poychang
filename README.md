@@ -1,5 +1,5 @@
-# Hello World 2026/05/16
+# Hello World 2026/05/17
 
-I'm reading a book about anti-gravity. It's impossible to put down!
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
