@@ -1,5 +1,5 @@
-# Hello World 2026/05/17
+# Hello World 2026/05/18
 
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+I was struggling to figure out how lightning works, but then it struck me.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
