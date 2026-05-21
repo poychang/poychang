@@ -1,5 +1,7 @@
-# Hello World 2026/05/20
+# Hello World 2026/05/21
 
-I didn't vaccinate my 10 kids and the one that survived is fine!
+A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
