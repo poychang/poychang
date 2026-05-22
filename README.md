@@ -1,7 +1,5 @@
-# Hello World 2026/05/21
+# Hello World 2026/05/22
 
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+I have a joke about trickle down economics, but 99% of you will never get it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
