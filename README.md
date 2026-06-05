@@ -1,5 +1,5 @@
-# Hello World 2026/06/04
+# Hello World 2026/06/05
 
-I was going to tell a dead baby joke. But I decided to abort.
+My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
