@@ -1,5 +1,5 @@
-# Hello World 2026/06/10
+# Hello World 2026/06/11
 
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
