@@ -1,5 +1,7 @@
-# Hello World 2026/06/11
+# Hello World 2026/06/12
 
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
