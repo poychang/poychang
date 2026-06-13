@@ -1,7 +1,5 @@
-# Hello World 2026/06/12
+# Hello World 2026/06/13
 
-Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing...
+How do you make holy water? You freeze it and drill holes in it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
