@@ -1,5 +1,5 @@
-# Hello World 2026/06/13
+# Hello World 2026/06/14
 
-How do you make holy water? You freeze it and drill holes in it.
+Never date a baker. They're too kneady.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
