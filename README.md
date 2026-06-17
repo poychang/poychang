@@ -1,6 +1,5 @@
-# Hello World 2026/06/16
+# Hello World 2026/06/17
 
-A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
