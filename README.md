@@ -1,5 +1,5 @@
-# Hello World 2026/06/17
+# Hello World 2026/06/18
 
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+I was struggling to figure out how lightning works, but then it struck me.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
