@@ -1,5 +1,6 @@
-# Hello World 2026/06/18
+# Hello World 2026/06/19
 
-I was struggling to figure out how lightning works, but then it struck me.
+My grandfather says I'm too reliant on technology.
+I called him a hypocrite and unplugged his life support.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
