@@ -1,6 +1,5 @@
-# Hello World 2026/06/19
+# Hello World 2026/06/20
 
-My grandfather says I'm too reliant on technology.
-I called him a hypocrite and unplugged his life support.
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
