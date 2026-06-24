@@ -1,5 +1,5 @@
-# Hello World 2026/06/23
+# Hello World 2026/06/24
 
-How do you make holy water? You freeze it and drill holes in it.
+Debugging: Removing the needles from the haystack.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
