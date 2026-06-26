@@ -1,5 +1,6 @@
-# Hello World 2026/06/25
+# Hello World 2026/06/26
 
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+Today, my son asked "Can I have a book mark?" and I burst into tears.
+11 years old and he still doesn't know my name is Brian.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
