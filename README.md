@@ -1,6 +1,7 @@
-# Hello World 2026/06/26
+# Hello World 2026/06/27
 
-Today, my son asked "Can I have a book mark?" and I burst into tears.
-11 years old and he still doesn't know my name is Brian.
+Two reasons I don't give money to homeless people.
+1) They are going to spend it all on drugs and alcohol
+2) I am going to spend it all on drugs and alcohol.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
