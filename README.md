@@ -1,7 +1,7 @@
-# Hello World 2026/06/27
+# Hello World 2026/06/28
 
-Two reasons I don't give money to homeless people.
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol.
+A horse walks into a bar.
+"Hey", the Bartender says.
+"Sure", the horse replies.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
