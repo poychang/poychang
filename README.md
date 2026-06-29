@@ -1,7 +1,5 @@
-# Hello World 2026/06/28
+# Hello World 2026/06/29
 
-A horse walks into a bar.
-"Hey", the Bartender says.
-"Sure", the horse replies.
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
