@@ -1,6 +1,8 @@
-# Hello World 2026/07/01
+# Hello World 2026/07/02
 
-A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+What does the MacBook have in common with Donald Trump?
+
+I would tell you....
+But I don't compare apples to oranges.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
