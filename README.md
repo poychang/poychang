@@ -1,7 +1,5 @@
-# Hello World 2026/07/18
+# Hello World 2026/07/19
 
-I have these weird muscle spasms in my gluteus maximus.
-I figured out from my doctor that everything was alright:
-He said "Weird flex, butt okay."
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
