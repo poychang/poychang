@@ -1,5 +1,5 @@
-# Hello World 2026/07/21
+# Hello World 2026/07/22
 
-I was reading a great book about an immortal dog the other day. It was impossible to put down.
+A perfectionist walked into a bar... apparently, the bar was not set high enough.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
