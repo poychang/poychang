@@ -1,6 +1,5 @@
-# Hello World 2026/07/24
+# Hello World 2026/07/25
 
-My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.
+I'd tell you a joke about NAT but I would have to translate.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
