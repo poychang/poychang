@@ -1,5 +1,7 @@
-# Hello World 2026/07/29
+# Hello World 2026/07/30
 
-Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+I have these weird muscle spasms in my gluteus maximus.
+I figured out from my doctor that everything was alright:
+He said "Weird flex, butt okay."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
