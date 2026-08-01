@@ -1,5 +1,10 @@
-# Hello World 2026/07/31
+# Hello World 2026/08/01
 
-I was struggling to figure out how lightning works, but then it struck me.
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
