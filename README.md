@@ -1,10 +1,5 @@
-# Hello World 2026/08/01
+# Hello World 2026/08/02
 
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+"We messed up the keming again guys."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
