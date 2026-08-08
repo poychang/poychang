@@ -1,5 +1,5 @@
-# Hello World 2026/08/07
+# Hello World 2026/08/08
 
-I was struggling to figure out how lightning works, but then it struck me.
+How do you make holy water? You boil the hell out of it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
