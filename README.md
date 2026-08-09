@@ -1,5 +1,5 @@
-# Hello World 2026/08/08
+# Hello World 2026/08/09
 
-How do you make holy water? You boil the hell out of it.
+I was going to tell a dead baby joke. But I decided to abort.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
