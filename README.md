@@ -1,8 +1,7 @@
-# Hello World 2026/08/12
+# Hello World 2026/08/13
 
-What does the MacBook have in common with Donald Trump?
-
-I would tell you....
-But I don't compare apples to oranges.
+Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
