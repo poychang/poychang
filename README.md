@@ -1,7 +1,6 @@
-# Hello World 2026/08/13
+# Hello World 2026/08/14
 
-Doctor: "I have some news about your baby."
-Parents: "Don't tell us the gender, we want to keep it a surprise."
-Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
+My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
