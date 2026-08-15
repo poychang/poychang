@@ -1,6 +1,7 @@
-# Hello World 2026/08/14
+# Hello World 2026/08/15
 
-My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
