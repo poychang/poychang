@@ -1,7 +1,6 @@
-# Hello World 2026/08/15
+# Hello World 2026/08/16
 
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
