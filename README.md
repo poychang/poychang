@@ -1,6 +1,5 @@
-# Hello World 2026/08/16
+# Hello World 2026/08/17
 
-A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"
+The generation of random numbers is too important to be left to chance.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
