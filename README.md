@@ -1,7 +1,5 @@
-# Hello World 2026/08/18
+# Hello World 2026/08/19
 
-Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing...
+ASCII silly question, get a silly ANSI.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
