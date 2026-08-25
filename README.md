@@ -1,5 +1,5 @@
-# Hello World 2026/08/24
+# Hello World 2026/08/25
 
-Yo mama is so old, she knew Burger King while he was still a prince.
+How do you make holy water? You freeze it and drill holes in it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
