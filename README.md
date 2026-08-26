@@ -1,5 +1,5 @@
-# Hello World 2026/08/25
+# Hello World 2026/08/26
 
-How do you make holy water? You freeze it and drill holes in it.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
