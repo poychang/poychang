@@ -1,5 +1,5 @@
-# Hello World 2026/08/28
+# Hello World 2026/08/29
 
-Never date a baker. They're too kneady.
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
