@@ -1,5 +1,5 @@
-# Hello World 2026/08/29
+# Hello World 2026/08/30
 
-Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
