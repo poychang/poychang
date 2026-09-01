@@ -1,5 +1,5 @@
-# Hello World 2026/08/31
+# Hello World 2026/09/01
 
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+I'm reading a book about anti-gravity. It's impossible to put down!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
