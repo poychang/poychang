@@ -1,5 +1,9 @@
-# Hello World 2026/09/01
+# Hello World 2026/09/02
 
-I'm reading a book about anti-gravity. It's impossible to put down!
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
