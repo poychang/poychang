@@ -1,8 +1,5 @@
-# Hello World 2026/09/03
+# Hello World 2026/09/04
 
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+I didn't vaccinate my 10 kids and the one that survived is fine!
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
