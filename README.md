@@ -1,5 +1,5 @@
-# Hello World 2026/09/04
+# Hello World 2026/09/05
 
-I didn't vaccinate my 10 kids and the one that survived is fine!
+Hey girl are you a school? Because I want to shoot some kids up inside of you.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
