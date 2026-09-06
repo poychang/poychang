@@ -1,5 +1,5 @@
-# Hello World 2026/09/05
+# Hello World 2026/09/06
 
-Hey girl are you a school? Because I want to shoot some kids up inside of you.
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
