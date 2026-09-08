@@ -1,5 +1,5 @@
-# Hello World 2026/09/07
+# Hello World 2026/09/08
 
-Hey girl are you a school? Because I want to shoot some kids up inside of you.
+Dark humor is like food, not everyone gets it.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
