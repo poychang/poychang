@@ -1,5 +1,5 @@
-# Hello World 2026/09/10
+# Hello World 2026/09/11
 
-// This line doesn't actually do anything, but the code stops working when I delete it.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
