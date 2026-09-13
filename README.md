@@ -1,6 +1,6 @@
-# Hello World 2026/09/12
+# Hello World 2026/09/13
 
-My wife and I have reached the difficult decision that we do not want children.
-If anybody does, please just send me your contact details and we can drop them off tomorrow.
+Nowadays people are so sensitive, you can't even say "black paint" anymore.
+Instead, you have to say "Jamal, please paint the fence".
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
