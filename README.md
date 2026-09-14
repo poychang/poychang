@@ -1,6 +1,5 @@
-# Hello World 2026/09/13
+# Hello World 2026/09/14
 
-Nowadays people are so sensitive, you can't even say "black paint" anymore.
-Instead, you have to say "Jamal, please paint the fence".
+ASCII silly question, get a silly ANSI.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
