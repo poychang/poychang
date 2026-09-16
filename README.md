@@ -1,5 +1,6 @@
-# Hello World 2026/09/15
+# Hello World 2026/09/16
 
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
