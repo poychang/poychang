@@ -1,6 +1,5 @@
-# Hello World 2026/09/16
+# Hello World 2026/09/17
 
-My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.
+Schrödinger's cat walks into a bar and doesn't.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
