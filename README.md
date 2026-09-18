@@ -1,5 +1,5 @@
-# Hello World 2026/09/17
+# Hello World 2026/09/18
 
-Schrödinger's cat walks into a bar and doesn't.
+Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
