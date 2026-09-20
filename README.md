@@ -1,8 +1,5 @@
-# Hello World 2026/09/19
+# Hello World 2026/09/20
 
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 ![PoyChang's github stats](https://github-readme-stats.vercel.app/api?username=poychang&show_icons=true&theme=dracula)
