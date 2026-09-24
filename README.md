@@ -1,24 +1,32 @@
-<div align="center">
+<p align="center">
+  <img src="https://github.com/poychang.png" width="140" height="140" alt="Poy Chang" style="border-radius: 50%;" />
+</p>
 
-<img src="https://github.com/poychang.png" width="140" alt="Poy Chang" style="border-radius:50%;" />
+<h1 align="center">Poy Chang</h1>
 
-# Poy Chang
+<p align="center">
+  <strong>Software Developer · Microsoft MVP · Community Builder</strong>
+</p>
 
-### Software Developer · Microsoft MVP · Community Builder
+<p align="center">
+  Building software, exploring technology, and sharing what I learn.
+</p>
 
-Building software, exploring technology, and sharing what I learn.
-
-[![Blog](https://img.shields.io/badge/Blog-blog.poychang.net-555?style=flat-square)](https://blog.poychang.net/)
-[![GitHub](https://img.shields.io/badge/GitHub-poychang-555?style=flat-square&logo=github)](https://github.com/poychang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poy%20Chang-555?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poychang/)
-
-</div>
+<p align="center">
+  <a href="https://blog.poychang.net/">
+    <img src="https://img.shields.io/badge/Blog-blog.poychang.net-555?style=flat-square" alt="Blog" />
+  </a>
+  <a href="https://github.com/poychang">
+    <img src="https://img.shields.io/badge/GitHub-poychang-555?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/poychang/">
+    <img src="https://img.shields.io/badge/LinkedIn-Poy%20Chang-555?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 I'm a software developer from Taiwan, focusing on **software development and architecture for the manufacturing industry**.
-
-My work and interests are mainly around:
 
 **.NET · Azure · AI · DevOps · Web · Software Architecture**
 
@@ -42,19 +50,19 @@ Over the years, I've continued contributing through **community events, technica
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>Keep learning. Keep practicing. Keep sharing.</strong>
+</p>
 
-### Keep learning. Keep practicing. Keep sharing.
+<p align="center">
+  <a href="https://blog.poychang.net/">Blog</a> ·
+  <a href="https://github.com/poychang">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/poychang/">LinkedIn</a> ·
+  <a href="mailto:poypost@gmail.com">Email</a>
+</p>
 
-[Blog](https://blog.poychang.net/) ·
-[GitHub](https://github.com/poychang) ·
-[LinkedIn](https://www.linkedin.com/in/poychang/) ·
-[Email](mailto:poypost@gmail.com)
+## Random developer joke
 
-</div>
-
-<div id="quote">
-Doctor: "I have some news about your baby."
-Parents: "Don't tell us the gender, we want to keep it a surprise."
-Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
-</div>
+<!-- quote:start -->
+> There are 10 types of people in the world: those who understand binary and those who do not.
+<!-- quote:end -->
