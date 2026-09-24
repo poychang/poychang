@@ -60,9 +60,3 @@ Over the years, I've continued contributing through **community events, technica
   <a href="https://www.linkedin.com/in/poychang/">LinkedIn</a> ·
   <a href="mailto:poypost@gmail.com">Email</a>
 </p>
-
-## Random developer joke
-
-<!-- quote:start -->
-> There are 10 types of people in the world: those who understand binary and those who do not.
-<!-- quote:end -->
