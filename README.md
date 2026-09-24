@@ -10,7 +10,7 @@
     </p>
   </div>
 
-  <div class="profile-badge-row">
+  <div align="center" class="profile-badge-row">
     <a href="https://blog.poychang.net/">
       <img src="https://img.shields.io/badge/Blog-blog.poychang.net-0ea5e9?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
     </a>
