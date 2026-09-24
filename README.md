@@ -1,41 +1,63 @@
-<p align="center">
-  <img src="https://github.com/poychang.png" width="140" height="140" alt="Poy Chang" style="border-radius: 50%;" />
-</p>
+<div class="profile-shell">
+  <div class="profile-head">
+    <img class="profile-avatar" src="https://github.com/poychang.png" width="140" height="140" alt="Poy Chang" />
+  </div>
 
-<h1 align="center">Poy Chang</h1>
+  <div class="profile-intro">
+    <h1 align="center">Poy Chang</h1>
+    <p align="center">
+      <strong>Software Developer · Microsoft MVP · Community Builder</strong>
+    </p>
+    <p class="profile-mini" align="center">
+      Building software, exploring technology, and sharing practical ideas that help teams move faster.
+    </p>
+  </div>
 
-<p align="center">
-  <strong>Software Developer · Microsoft MVP · Community Builder</strong>
-</p>
+  <div class="profile-badge-row">
+    <a href="https://blog.poychang.net/">
+      <img src="https://img.shields.io/badge/Blog-blog.poychang.net-0ea5e9?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
+    </a>
+    <a href="https://github.com/poychang">
+      <img src="https://img.shields.io/badge/GitHub-poychang-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/poychang/">
+      <img src="https://img.shields.io/badge/LinkedIn-Poy%20Chang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </div>
 
-<p align="center">
-  Building software, exploring technology, and sharing what I learn.
-</p>
-
-<p align="center">
-  <a href="https://blog.poychang.net/">
-    <img src="https://img.shields.io/badge/Blog-blog.poychang.net-555?style=flat-square" alt="Blog" />
-  </a>
-  <a href="https://github.com/poychang">
-    <img src="https://img.shields.io/badge/GitHub-poychang-555?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/poychang/">
-    <img src="https://img.shields.io/badge/LinkedIn-Poy%20Chang-555?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+  <div class="profile-card-grid">
+    <div class="profile-card">
+      <strong>Focus</strong>
+      <span class="profile-tag">.NET</span>
+      <span class="profile-tag">Azure</span>
+      <span class="profile-tag">AI</span>
+      <span class="profile-tag">DevOps</span>
+    </div>
+    <div class="profile-card">
+      <strong>Industry</strong>
+      <span class="profile-tag">Manufacturing</span>
+      <span class="profile-tag">Architecture</span>
+      <span class="profile-tag">Digitalization</span>
+    </div>
+    <div class="profile-card">
+      <strong>Contribution</strong>
+      <span class="profile-tag">Blog</span>
+      <span class="profile-tag">Open Source</span>
+      <span class="profile-tag">Community</span>
+    </div>
+  </div>
+</div>
 
 ---
 
 I'm a software developer from Taiwan, focusing on **software development and architecture for the manufacturing industry**.
 
-**.NET · Azure · AI · DevOps · Web · Software Architecture**
-
-I enjoy turning new technologies into practical solutions and sharing what I learn along the way.
+I enjoy turning modern technologies into practical solutions and sharing lessons learned along the way.
 
 ## What I do
 
 - Design and build **enterprise and manufacturing software**
-- Explore **.NET, Azure, AI Agents, DevOps**, and modern development workflows
+- Explore **.NET, Azure, AI Agents, DevOps**, and modern workflow automation
 - Write technical articles and notes at [**Poy Chang's Blog**](https://blog.poychang.net/)
 - Maintain and contribute to **open-source projects**
 - Share practical development experience through **talks, workshops, and community events**
@@ -49,7 +71,7 @@ I enjoy turning new technologies into practical solutions and sharing what I lea
 
 I'm a core member of [**STUDY4**](https://study4.tw/) and have been involved in organizing and supporting **.NET Conf Taiwan** and other developer community events.
 
-I believe technology becomes more valuable when knowledge is shared.
+> Technology is most valuable when it is shared, applied, and improved together.
 
 Over the years, I've continued contributing through **community events, technical talks, articles, open-source projects, and books**.
 
@@ -59,7 +81,7 @@ Over the years, I've continued contributing through **community events, technica
   <strong>Keep learning. Keep practicing. Keep sharing.</strong>
 </p>
 
-<p align="center">
+<p class="profile-link-row" align="center">
   <a href="https://blog.poychang.net/">Blog</a> ·
   <a href="https://github.com/poychang">GitHub</a> ·
   <a href="https://www.linkedin.com/in/poychang/">LinkedIn</a> ·
