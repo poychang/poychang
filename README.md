@@ -40,6 +40,11 @@ I enjoy turning new technologies into practical solutions and sharing what I lea
 - Maintain and contribute to **open-source projects**
 - Share practical development experience through **talks, workshops, and community events**
 
+## Recent updates
+
+<!-- recent-updates:start -->
+<!-- recent-updates:end -->
+
 ## Community
 
 I'm a core member of [**STUDY4**](https://study4.tw/) and have been involved in organizing and supporting **.NET Conf Taiwan** and other developer community events.
