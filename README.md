@@ -26,24 +26,30 @@
   </div>
 
   <div class="profile-card-grid">
-    <div class="profile-card">
-      <strong>Focus</strong>
-      <span class="profile-tag">.NET</span>
-      <span class="profile-tag">Azure</span>
-      <span class="profile-tag">AI</span>
-      <span class="profile-tag">DevOps</span>
+    <div class="profile-card profile-card-highlight">
+      <span class="profile-card-label">Focus</span>
+      <div class="profile-tag-list">
+        <span class="profile-tag">.NET</span>
+        <span class="profile-tag">Azure</span>
+        <span class="profile-tag">AI</span>
+        <span class="profile-tag">DevOps</span>
+      </div>
     </div>
     <div class="profile-card">
-      <strong>Industry</strong>
-      <span class="profile-tag">Manufacturing</span>
-      <span class="profile-tag">Architecture</span>
-      <span class="profile-tag">Digitalization</span>
+      <span class="profile-card-label">Industry</span>
+      <div class="profile-tag-list">
+        <span class="profile-tag">Manufacturing</span>
+        <span class="profile-tag">Architecture</span>
+        <span class="profile-tag">Digitalization</span>
+      </div>
     </div>
     <div class="profile-card">
-      <strong>Contribution</strong>
-      <span class="profile-tag">Blog</span>
-      <span class="profile-tag">Open Source</span>
-      <span class="profile-tag">Community</span>
+      <span class="profile-card-label">Contribution</span>
+      <div class="profile-tag-list">
+        <span class="profile-tag">Blog</span>
+        <span class="profile-tag">Open Source</span>
+        <span class="profile-tag">Community</span>
+      </div>
     </div>
   </div>
 </div>
