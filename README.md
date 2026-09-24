@@ -24,6 +24,8 @@
 
 </div>
 
+---
+
 I'm a software developer from Taiwan, focusing on **software development and architecture for the manufacturing industry**.
 
 I enjoy turning modern technologies into practical solutions and sharing lessons learned along the way.
