@@ -53,4 +53,8 @@ Over the years, I've continued contributing through **community events, technica
 
 </div>
 
-<div id="quote"></div>
+<div id="quote">
+Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."
+</div>
