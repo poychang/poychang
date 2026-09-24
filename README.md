@@ -62,7 +62,9 @@ I enjoy turning modern technologies into practical solutions and sharing lessons
 - Maintain and contribute to **open-source projects**
 - Share practical development experience through **talks, workshops, and community events**
 
-## Recent updates
+## How AI currently sees me
+
+> A periodically refreshed, AI-generated view based on publicly available information.
 
 <!-- recent-updates:start -->
 <!-- recent-updates:end -->
