@@ -1,7 +1,4 @@
 <div class="profile-shell">
-  <div class="profile-head">
-    <img class="profile-avatar" src="https://github.com/poychang.png" width="140" height="140" alt="Poy Chang" />
-  </div>
 
   <div class="profile-intro">
     <h1 align="center">Poy Chang</h1>
