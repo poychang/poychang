@@ -43,6 +43,9 @@ I enjoy turning modern technologies into practical solutions and sharing lessons
 > A periodically refreshed, AI-generated view based on publicly available information.
 
 <!-- recent-updates:start -->
+- Publicly develops CmdPalDockStats, a PowerToys Command Palette extension that provides a customizable My Stats Dock Band with hardware sensor readings; its README describes it as a development prototype. [Source](https://github.com/poychang/CmdPalDockStats)
+- Publicly develops Flowa, an in-development real-time collaborative canvas built with React, TypeScript and Excalidraw, with a local multi-user version, PWA install and offline drafts. [Source](https://github.com/poychang/flowa)
+- Publicly develops a WinUI 3 arcade game inspired by 1972 early electronic table tennis, built with .NET 10 and still at the development stage. [Source](https://github.com/poychang/pong-in-1972)
 <!-- recent-updates:end -->
 
 ## Community
