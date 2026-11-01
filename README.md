@@ -43,6 +43,9 @@ I enjoy turning modern technologies into practical solutions and sharing lessons
 > A periodically refreshed, AI-generated view based on publicly available information.
 
 <!-- recent-updates:start -->
+- Maintains a public Windows Command Palette translation extension (Bing, Google and Aliyun providers, .NET 10) packaged as MSIX. [Source](https://github.com/poychang/CmdPalTranslator)
+- Is developing a public Command Palette Dock extension for customizable system and hardware-sensor stats, described as a development prototype. [Source](https://github.com/poychang/CmdPalDockStats)
+- Is developing Flowa, a public real-time collaborative whiteboard built with React, TypeScript and Excalidraw, with PWA and offline-draft support. [Source](https://github.com/poychang/flowa)
 <!-- recent-updates:end -->
 
 ## Community
